@@ -1,0 +1,266 @@
+Marseille,Avignon,5,17
+Avignon,Besançon,10,23
+Besançon,Limoges,8,27
+Limoges,Perpignan,6,25
+Perpignan,Le Mans,10,25
+Le Mans,Reims,8,10
+Reims,Bayonne,5,19
+Bayonne,Troyes,6,22
+Troyes,Chambéry,10,17
+Chambéry,La Rochelle,7,28
+La Rochelle,Saint-Étienne,7,25
+Saint-Étienne,Caen,9,26
+Caen,Valence,7,23
+Valence,Pau,10,27
+Pau,Mulhouse,7,21
+Mulhouse,Annecy,10,24
+Annecy,Angers,7,19
+Angers,Calais,7,17
+Calais,Albi,5,16
+Albi,Tarbes,7,13
+Tarbes,Lille,10,27
+Paris,Lyon,43,109
+Le Mans,Nice,81,130
+Nice,Angers,87,212
+Troyes,Besançon,44,135
+Reims,La Rochelle,42,137
+Marseille,Lyon,88,92
+Bayonne,Lille,26,201
+Troyes,Lyon,36,223
+Nantes,Paris,82,86
+Nantes,Marseille,93,132
+Pau,Valence,63,107
+Lille,Bayonne,81,89
+Bordeaux,Avignon,71,185
+Avignon,Angers,100,235
+Lille,Limoges,39,267
+Angers,Troyes,30,123
+Besançon,Annecy,73,215
+Calais,Strasbourg,99,117
+Paris,Mulhouse,68,175
+Toulouse,Valence,58,280
+Angers,Caen,59,205
+Calais,Lille,98,249
+Besançon,Paris,46,220
+Le Mans,Bayonne,30,100
+Reims,Perpignan,90,79
+Perpignan,Marseille,72,175
+Lyon,Calais,80,134
+Lille,Reims,56,240
+Nantes,Valence,29,235
+Reims,Toulouse,53,261
+Strasbourg,Albi,95,229
+Strasbourg,Toulouse,45,168
+Reims,Albi,39,292
+Bayonne,Bordeaux,38,78
+Lille,Perpignan,59,212
+Nice,Bordeaux,92,295
+Troyes,Valence,35,179
+Lyon,Troyes,71,129
+Avignon,Calais,25,287
+Caen,Nice,61,214
+Bayonne,Marseille,31,118
+Tarbes,Bordeaux,93,210
+Marseille,Paris,54,207
+Lille,Paris,42,180
+Mulhouse,Albi,76,294
+Bayonne,Perpignan,94,171
+Albi,Bordeaux,82,83
+Pau,La Rochelle,72,145
+Chambéry,Tarbes,33,279
+Perpignan,Chambéry,72,237
+Pau,Troyes,71,268
+Paris,Annecy,24,176
+Avignon,Chambéry,52,142
+Saint-Étienne,Nantes,85,271
+Marseille,Tarbes,89,178
+Caen,Lille,44,192
+La Rochelle,Calais,83,220
+Valence,Paris,26,112
+Bayonne,Annecy,36,297
+Rennes,Lyon,82,91
+Marseille,Albi,97,264
+Reims,Lyon,40,139
+Annecy,Marseille,90,164
+Avignon,Reims,34,178
+Besançon,Albi,39,187
+Toulouse,Lyon,57,190
+Lyon,Bayonne,73,273
+Pau,Reims,78,201
+Limoges,Saint-Étienne,44,295
+Calais,Mulhouse,37,281
+Avignon,Bayonne,73,147
+Toulouse,Strasbourg,84,128
+Bordeaux,Marseille,56,245
+Troyes,Bordeaux,95,208
+Tarbes,Pau,39,174
+Annecy,Pau,64,145
+Annecy,Paris,89,156
+Valence,Toulouse,61,282
+Le Mans,Lyon,50,206
+Saint-Étienne,Reims,72,71
+Chambéry,Nice,80,240
+Saint-Étienne,Tarbes,39,186
+Mulhouse,Angers,62,282
+Besançon,Nantes,76,85
+Mulhouse,Toulouse,78,63
+Nice,Limoges,72,282
+Albi,Limoges,29,180
+Strasbourg,Bayonne,63,219
+Lyon,Saint-Étienne,30,278
+Chambéry,Nantes,88,157
+Chambéry,Albi,82,283
+Annecy,Lille,99,77
+Tarbes,Toulouse,56,118
+Nice,Avignon,75,85
+Paris,Albi,32,173
+Perpignan,Lyon,58,291
+Marseille,Lille,61,263
+Lille,Troyes,65,155
+Caen,Limoges,51,195
+Caen,Angers,43,103
+Perpignan,Avignon,98,282
+Saint-Étienne,Calais,50,187
+Toulouse,Angers,38,119
+Valence,Albi,52,177
+Bayonne,Tarbes,21,290
+Strasbourg,Valence,56,233
+Annecy,Perpignan,29,173
+La Rochelle,Angers,58,223
+Caen,Lyon,52,176
+Nantes,Troyes,45,158
+Nantes,Pau,33,120
+Saint-Étienne,Angers,65,207
+Troyes,Marseille,70,130
+Marseille,Angers,26,293
+Calais,Nice,83,273
+Rennes,Troyes,49,215
+Strasbourg,La Rochelle,48,222
+Le Mans,Calais,52,233
+Paris,Nice,37,220
+Besançon,Rennes,100,225
+Lille,Angers,66,247
+Limoges,Avignon,57,143
+Nice,Caen,42,111
+Limoges,Strasbourg,89,284
+La Rochelle,Mulhouse,84,293
+Perpignan,Bayonne,81,266
+Troyes,Nice,63,265
+Besançon,Valence,29,96
+Paris,Reims,70,276
+Strasbourg,Annecy,66,83
+Strasbourg,Saint-Étienne,21,127
+Annecy,Besançon,78,154
+Tarbes,Nice,53,209
+Saint-Étienne,Bordeaux,67,87
+Tarbes,Reims,80,66
+Calais,Rennes,91,143
+Toulouse,Calais,48,225
+Avignon,Albi,79,292
+Albi,Caen,34,95
+Pau,Besançon,32,120
+Rennes,Annecy,37,159
+Valence,La Rochelle,89,167
+Angers,Nice,39,286
+Caen,Albi,32,273
+Pau,Calais,72,300
+Lyon,La Rochelle,47,173
+Valence,Reims,66,85
+Tarbes,La Rochelle,89,290
+Albi,La Rochelle,27,161
+Bayonne,Le Mans,35,277
+Bordeaux,Valence,31,229
+Le Mans,Albi,96,65
+Lille,Strasbourg,62,122
+Angers,Le Mans,28,272
+Le Mans,Angers,47,268
+Nantes,Reims,62,258
+Rennes,Calais,20,130
+Nantes,Limoges,36,198
+Bayonne,Strasbourg,42,88
+Tarbes,Nantes,23,93
+Marseille,La Rochelle,50,210
+Chambéry,Marseille,42,127
+Mulhouse,Besançon,28,181
+Angers,Besançon,77,188
+Reims,Calais,25,246
+Nantes,Tarbes,86,137
+Pau,Nantes,71,169
+Tarbes,Besançon,82,242
+Avignon,Rennes,30,142
+Calais,Limoges,28,92
+Bayonne,Calais,94,200
+Lyon,Chambéry,68,212
+Mulhouse,Troyes,78,189
+Calais,Caen,32,263
+Lyon,Besançon,90,244
+Nantes,Le Mans,75,175
+Rennes,Reims,72,146
+Nice,Besançon,60,169
+Bayonne,La Rochelle,39,235
+Toulouse,Pau,28,83
+Avignon,Caen,32,250
+Nice,La Rochelle,36,202
+Annecy,Chambéry,35,165
+La Rochelle,Nantes,74,282
+Toulouse,Nice,26,133
+Calais,Troyes,65,86
+Angers,Mulhouse,47,99
+Reims,Nantes,33,149
+Nantes,Annecy,67,89
+Paris,Bayonne,93,117
+Strasbourg,Caen,91,256
+Bordeaux,Calais,98,232
+Albi,Annecy,23,215
+Toulouse,Tarbes,54,67
+Lyon,Paris,59,295
+Marseille,Perpignan,38,204
+Tarbes,Saint-Étienne,28,96
+Nice,Albi,23,83
+Nice,Mulhouse,47,156
+Chambéry,Perpignan,67,139
+Nice,Chambéry,92,212
+Perpignan,Paris,99,72
+Tarbes,Avignon,54,173
+Tarbes,Caen,82,215
+Valence,Caen,54,115
+Besançon,La Rochelle,75,88
+Troyes,Tarbes,95,184
+Mulhouse,Tarbes,59,71
+Reims,Saint-Étienne,96,74
+Marseille,Le Mans,58,114
+Paris,Limoges,52,134
+Chambéry,Besançon,20,187
+Perpignan,Limoges,68,196
+Lyon,Reims,84,203
+Bordeaux,Tarbes,65,78
+Nice,Lille,75,64
+Avignon,Nantes,60,207
+Saint-Étienne,Lyon,73,134
+Besançon,Saint-Étienne,22,143
+Perpignan,Strasbourg,99,177
+Bordeaux,Lyon,66,82
+Caen,Nantes,33,122
+Saint-Étienne,Mulhouse,30,161
+Reims,Chambéry,41,79
+Besançon,Mulhouse,85,109
+Rennes,Paris,64,149
+Limoges,Reims,33,97
+Perpignan,Calais,39,254
+Avignon,Perpignan,100,186
+Angers,Paris,94,174
+Rennes,Angers,99,142
+Nantes,Albi,60,98
+Valence,Avignon,80,173
+Albi,Troyes,55,211
+Lille,La Rochelle,84,78
+Valence,Lille,27,154
+Bordeaux,Troyes,29,225
+Nantes,Avignon,98,212
+Mulhouse,Saint-Étienne,79,208
+Annecy,Strasbourg,25,175
+Angers,Albi,44,142
+Calais,Pau,84,98
+Lille,Valence,33,267
+Rennes,Bordeaux,63,242
+Avignon,Mulhouse,42,70
