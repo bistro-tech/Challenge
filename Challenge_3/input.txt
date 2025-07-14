@@ -1,1801 +1,451 @@
-1956,Edgar Denton,Nice,2
-5082,Élise Lemoine,Lille,25
-6559,Edgar Lemoine,Paris,20
-2699,Sophie Fontaine,Rennes,96
-6599,Alice Denton,Lille,41
-7306,Élise Moreau,Lille,6
-4125,Jean Denton,Lyon,85
-2481,Jean Girard,Marseille,94
-2593,Élise Lemoine,Paris,98
-7078,Sophie Dubois,Lyon,81
-4002,Thomas Denton,Paris,18
-5679,Sophie Noël,Marseille,55
-3293,Jean Dubois,Nantes,80
-6126,Sophie Fontaine,Marseille,23
-8373,Alice Lemoine,Strasbourg,97
-9923,Edgar Petit,Marseille,66
-8724,Marie Girard,Bordelon,13
-6665,Lucien Perrot,Paris,58
-2002,Thomas Lagarde,Bordelon,0
-3882,Marie Lemoine,Nice,39
-3841,Sophie Fontaine,Paris,3
-6558,Hugo Denton,Bordelon,62
-2519,Marie Noël,Lille,59
-7395,Jean Fontaine,Bordelon,60
-7658,Claire Lemoine,Marseille,61
-4447,Jean Moreau,Nantes,65
-4162,Sophie Fontaine,Paris,4
-9794,Thomas Petit,Rennes,76
-4070,Claire Perrot,Nice,86
-4890,Alice Petit,Nantes,83
-7249,Marie Lemoine,Marseille,5
-9781,Alice Lagarde,Lille,65
-6058,Jean Fontaine,Strasbourg,93
-9341,Alice Lagarde,Paris,95
-9975,Thomas Moreau,Toulouse,66
-4348,Jean Noël,Strasbourg,33
-3697,Marie Perrot,Lille,83
-3557,Hugo Lagarde,Lyon,12
-9021,Lucien Girard,Paris,73
-3243,Lucien Perrot,Rennes,2
-1678,Marie Lagarde,Rennes,76
-9404,Marie Petit,Toulouse,45
-3438,Élise Petit,Paris,15
-5041,Élise Girard,Paris,75
-4342,Élise Lemoine,Rennes,4
-7005,Jean Dubois,Nice,38
-2494,Jean Petit,Nantes,80
-3648,Alice Denton,Lille,68
-6413,Marie Petit,Toulouse,49
-5824,Élise Denton,Strasbourg,8
-5201,Élise Dubois,Rennes,48
-6383,Marie Dubois,Rennes,53
-4983,Sophie Noël,Marseille,39
-7392,Hugo Noël,Toulouse,37
-9282,Lucien Girard,Lyon,96
-9568,Hugo Denton,Paris,17
-2926,Thomas Lagarde,Lille,99
-2927,Jean Noël,Nice,24
-5025,Alice Lemoine,Lille,72
-7334,Hugo Dubois,Lyon,27
-4145,Thomas Perrot,Rennes,43
-5322,Thomas Lagarde,Lyon,70
-3730,Lucien Denton,Lille,97
-9015,Jean Girard,Strasbourg,22
-7671,Edgar Fontaine,Marseille,50
-1911,Hugo Noël,Paris,83
-6264,Alice Dubois,Nantes,83
-6024,Élise Perrot,Nantes,8
-1150,Lucien Dubois,Strasbourg,86
-2328,Sophie Noël,Marseille,33
-2284,Alice Moreau,Toulouse,43
-2027,Alice Moreau,Lille,5
-1257,Élise Lagarde,Bordelon,10
-9060,Sophie Fontaine,Paris,26
-6489,Lucien Petit,Strasbourg,71
-9631,Thomas Petit,Lyon,86
-7862,Hugo Dubois,Paris,59
-4379,Lucien Denton,Paris,86
-1831,Hugo Perrot,Lyon,16
-3311,Claire Fontaine,Nice,55
-5663,Hugo Petit,Strasbourg,22
-2654,Claire Noël,Lyon,37
-3089,Edgar Perrot,Marseille,15
-3166,Hugo Perrot,Lille,85
-3206,Élise Petit,Strasbourg,44
-9580,Alice Dubois,Lille,100
-4312,Hugo Lemoine,Marseille,18
-1754,Jean Denton,Lyon,55
-8375,Hugo Dubois,Nice,68
-4895,Sophie Dubois,Nice,52
-2379,Marie Girard,Bordelon,37
-8810,Jean Fontaine,Bordelon,95
-8986,Thomas Dubois,Lille,74
-2468,Thomas Fontaine,Paris,17
-4562,Hugo Moreau,Strasbourg,1
-5570,Hugo Moreau,Bordelon,67
-3878,Marie Denton,Rennes,41
-3504,Hugo Girard,Strasbourg,98
-7414,Sophie Fontaine,Marseille,81
-2363,Hugo Girard,Toulouse,67
-2653,Claire Denton,Lyon,71
-1342,Thomas Fontaine,Nice,79
-8206,Élise Noël,Nice,95
-4592,Lucien Perrot,Paris,11
-4531,Élise Fontaine,Paris,31
-1071,Élise Girard,Bordelon,54
-1685,Élise Denton,Paris,45
-4519,Alice Noël,Rennes,66
-5353,Lucien Dubois,Strasbourg,64
-2714,Thomas Petit,Nantes,96
-3658,Edgar Perrot,Marseille,55
-4935,Sophie Petit,Lille,72
-6444,Jean Fontaine,Nantes,64
-3575,Claire Perrot,Nice,26
-4139,Lucien Lemoine,Nantes,30
-4004,Thomas Moreau,Strasbourg,96
-9371,Sophie Perrot,Strasbourg,85
-3687,Élise Dubois,Lille,45
-8149,Élise Petit,Rennes,8
-2525,Lucien Fontaine,Rennes,55
-3251,Alice Petit,Nantes,79
-5401,Alice Moreau,Lille,32
-4883,Hugo Perrot,Rennes,47
-5180,Claire Noël,Lille,93
-7009,Alice Dubois,Toulouse,93
-6032,Claire Noël,Strasbourg,3
-9465,Alice Petit,Toulouse,26
-6328,Thomas Lagarde,Lille,95
-8231,Sophie Perrot,Bordelon,15
-3208,Jean Lemoine,Strasbourg,64
-1236,Marie Petit,Rennes,38
-8962,Claire Lagarde,Nantes,9
-8574,Claire Perrot,Toulouse,87
-6526,Élise Lagarde,Lille,51
-6036,Marie Lagarde,Marseille,42
-1190,Élise Girard,Bordelon,98
-7973,Claire Petit,Marseille,35
-3910,Hugo Denton,Lyon,78
-7176,Alice Moreau,Bordelon,3
-2901,Marie Denton,Bordelon,9
-7732,Claire Moreau,Strasbourg,5
-3592,Jean Denton,Lille,55
-8208,Lucien Dubois,Bordelon,46
-1030,Alice Lagarde,Lille,62
-5548,Hugo Petit,Rennes,88
-5929,Sophie Fontaine,Toulouse,22
-6875,Marie Fontaine,Nice,91
-9250,Alice Moreau,Paris,65
-9455,Marie Moreau,Strasbourg,36
-2013,Marie Girard,Nice,64
-3214,Sophie Moreau,Strasbourg,8
-6053,Sophie Denton,Marseille,18
-6313,Edgar Perrot,Lyon,21
-2116,Jean Fontaine,Nantes,17
-4377,Marie Girard,Marseille,8
-3117,Thomas Petit,Bordelon,38
-6174,Hugo Lemoine,Nice,76
-9743,Hugo Perrot,Nice,89
-1627,Élise Lemoine,Nantes,55
-1066,Hugo Moreau,Marseille,37
-1429,Hugo Lagarde,Bordelon,44
-2765,Hugo Denton,Toulouse,30
-5815,Claire Fontaine,Bordelon,69
-5412,Edgar Lemoine,Bordelon,36
-7207,Thomas Moreau,Lyon,95
-7781,Jean Dubois,Strasbourg,50
-9321,Thomas Lagarde,Paris,78
-9751,Alice Lagarde,Bordelon,56
-7574,Élise Lemoine,Toulouse,40
-7202,Alice Lemoine,Lille,77
-1162,Hugo Noël,Bordelon,38
-1115,Thomas Denton,Rennes,58
-1245,Sophie Girard,Rennes,41
-7063,Edgar Lagarde,Bordelon,48
-5821,Jean Petit,Nice,63
-9482,Edgar Noël,Paris,4
-4200,Lucien Denton,Rennes,62
-5239,Alice Noël,Toulouse,20
-6958,Sophie Petit,Marseille,89
-9244,Élise Dubois,Rennes,11
-8084,Claire Fontaine,Nice,98
-7506,Lucien Perrot,Paris,88
-6796,Hugo Girard,Rennes,52
-3285,Edgar Moreau,Bordelon,12
-1586,Marie Lagarde,Bordelon,24
-2808,Sophie Noël,Rennes,12
-1837,Thomas Noël,Nice,40
-6132,Thomas Dubois,Toulouse,63
-3789,Sophie Moreau,Nice,95
-3881,Jean Noël,Paris,62
-2253,Thomas Lemoine,Bordelon,82
-2293,Edgar Lemoine,Nice,36
-8379,Claire Fontaine,Nice,57
-5871,Sophie Noël,Toulouse,66
-8179,Edgar Petit,Strasbourg,57
-4470,Claire Girard,Rennes,67
-8703,Hugo Lagarde,Paris,46
-8261,Marie Perrot,Toulouse,61
-7149,Hugo Dubois,Marseille,27
-6736,Claire Moreau,Strasbourg,2
-9603,Claire Perrot,Nantes,11
-4109,Jean Lagarde,Lille,94
-8270,Hugo Petit,Lyon,18
-2599,Lucien Moreau,Paris,63
-6439,Lucien Moreau,Rennes,15
-6055,Alice Noël,Marseille,61
-7908,Thomas Lagarde,Lyon,15
-7367,Claire Petit,Lyon,74
-6498,Thomas Lemoine,Paris,15
-4451,Hugo Girard,Toulouse,62
-7683,Sophie Perrot,Lille,34
-7687,Marie Lemoine,Marseille,2
-8967,Marie Moreau,Bordelon,32
-6159,Alice Denton,Toulouse,83
-7453,Sophie Fontaine,Nice,42
-5376,Lucien Petit,Strasbourg,36
-6683,Hugo Dubois,Nice,36
-9457,Élise Lagarde,Nice,17
-6810,Edgar Girard,Nantes,63
-9602,Claire Dubois,Paris,46
-8953,Claire Fontaine,Bordelon,32
-7475,Claire Dubois,Toulouse,82
-6574,Jean Girard,Strasbourg,27
-4524,Edgar Petit,Nantes,58
-7390,Alice Denton,Paris,3
-8702,Hugo Petit,Rennes,71
-7617,Edgar Moreau,Nantes,15
-7882,Lucien Denton,Bordelon,33
-8259,Edgar Girard,Nantes,61
-4311,Jean Dubois,Nice,64
-1519,Lucien Fontaine,Nantes,30
-1687,Élise Fontaine,Nice,18
-7059,Jean Noël,Paris,5
-1950,Alice Moreau,Rennes,86
-3075,Jean Girard,Nantes,23
-1465,Sophie Lemoine,Nantes,11
-8964,Edgar Petit,Rennes,9
-9547,Élise Fontaine,Lyon,99
-3353,Jean Denton,Marseille,93
-2849,Marie Dubois,Nantes,38
-9704,Lucien Moreau,Rennes,27
-2069,Sophie Noël,Lyon,65
-7227,Hugo Fontaine,Nantes,30
-7376,Thomas Lemoine,Marseille,40
-9559,Hugo Perrot,Paris,7
-3427,Sophie Fontaine,Strasbourg,51
-7307,Hugo Petit,Toulouse,66
-3392,Sophie Lemoine,Nice,87
-6719,Jean Moreau,Marseille,47
-6198,Élise Perrot,Paris,0
-2902,Élise Petit,Strasbourg,46
-4194,Jean Girard,Toulouse,86
-6539,Alice Moreau,Strasbourg,71
-8966,Marie Fontaine,Strasbourg,5
-4584,Lucien Moreau,Lyon,28
-1139,Jean Dubois,Toulouse,38
-7277,Élise Denton,Paris,12
-4069,Sophie Girard,Bordelon,48
-1630,Edgar Girard,Toulouse,20
-4414,Lucien Noël,Toulouse,67
-1367,Jean Perrot,Marseille,81
-4101,Lucien Girard,Lyon,79
-1771,Claire Petit,Lyon,63
-9230,Hugo Petit,Lyon,94
-2830,Edgar Petit,Lille,31
-1033,Edgar Denton,Nantes,7
-8166,Marie Perrot,Marseille,53
-7931,Sophie Lemoine,Paris,32
-6747,Claire Lagarde,Lyon,6
-3889,Lucien Moreau,Lille,99
-3419,Lucien Perrot,Marseille,4
-3511,Hugo Denton,Lyon,57
-2799,Marie Moreau,Paris,62
-9601,Jean Denton,Toulouse,73
-4771,Claire Perrot,Strasbourg,42
-3941,Claire Moreau,Bordelon,7
-5531,Alice Perrot,Rennes,31
-1758,Marie Denton,Strasbourg,90
-5778,Lucien Perrot,Lille,46
-9793,Claire Denton,Nice,27
-1927,Claire Perrot,Nice,77
-4563,Hugo Girard,Paris,62
-4303,Sophie Perrot,Strasbourg,22
-2670,Lucien Lemoine,Nice,24
-5366,Claire Fontaine,Marseille,51
-4670,Marie Girard,Strasbourg,23
-5964,Lucien Fontaine,Marseille,20
-1237,Hugo Lagarde,Marseille,61
-4598,Thomas Fontaine,Nice,38
-8027,Élise Girard,Lille,55
-3217,Sophie Moreau,Marseille,34
-1182,Marie Moreau,Rennes,41
-9708,Alice Noël,Lille,35
-8839,Lucien Dubois,Lille,29
-4594,Thomas Fontaine,Strasbourg,50
-7126,Sophie Petit,Toulouse,27
-6063,Thomas Noël,Nantes,87
-5646,Claire Lemoine,Toulouse,36
-9153,Marie Moreau,Rennes,84
-7096,Edgar Dubois,Lille,18
-3239,Edgar Petit,Toulouse,80
-4880,Lucien Petit,Marseille,61
-8367,Marie Fontaine,Lyon,54
-2573,Marie Denton,Marseille,26
-7033,Sophie Girard,Nantes,37
-5296,Hugo Petit,Bordelon,64
-7958,Claire Dubois,Rennes,9
-1158,Claire Denton,Bordelon,81
-2139,Claire Lemoine,Nice,58
-6717,Marie Fontaine,Toulouse,81
-8635,Sophie Dubois,Lille,80
-5148,Alice Lagarde,Bordelon,45
-8646,Jean Perrot,Rennes,22
-6706,Sophie Girard,Nantes,85
-3627,Alice Girard,Bordelon,28
-8916,Jean Girard,Bordelon,0
-1994,Claire Perrot,Toulouse,38
-7756,Edgar Moreau,Strasbourg,9
-4282,Hugo Girard,Bordelon,78
-3236,Sophie Fontaine,Rennes,26
-7470,Sophie Petit,Nice,43
-4449,Edgar Denton,Nice,10
-1101,Marie Petit,Lille,3
-5537,Jean Petit,Paris,53
-8454,Hugo Denton,Lille,62
-7079,Thomas Girard,Nantes,89
-5070,Lucien Perrot,Nice,9
-3084,Alice Perrot,Nice,93
-7181,Élise Perrot,Strasbourg,44
-2029,Thomas Lagarde,Toulouse,93
-1864,Claire Denton,Bordelon,14
-5213,Élise Petit,Nice,34
-6273,Hugo Noël,Lille,76
-3448,Claire Lagarde,Lille,91
-3479,Edgar Fontaine,Toulouse,40
-3330,Hugo Girard,Marseille,42
-3170,Élise Dubois,Strasbourg,90
-6896,Hugo Fontaine,Bordelon,11
-1288,Thomas Girard,Nantes,75
-9875,Thomas Perrot,Lille,80
-1747,Alice Lemoine,Rennes,23
-4738,Hugo Noël,Bordelon,10
-9397,Alice Lemoine,Marseille,1
-7894,Lucien Dubois,Rennes,75
-4249,Lucien Girard,Toulouse,16
-3734,Élise Girard,Lille,17
-9532,Thomas Denton,Nice,26
-2945,Marie Moreau,Paris,55
-6426,Marie Girard,Toulouse,15
-2805,Jean Petit,Bordelon,75
-5799,Jean Petit,Toulouse,75
-6728,Edgar Fontaine,Rennes,14
-7928,Jean Lagarde,Paris,92
-8434,Sophie Dubois,Paris,43
-9508,Alice Perrot,Paris,39
-9451,Hugo Petit,Toulouse,91
-9586,Jean Moreau,Paris,87
-5067,Élise Petit,Nantes,16
-8015,Lucien Girard,Marseille,4
-5845,Hugo Lemoine,Lyon,87
-4933,Jean Lagarde,Lille,38
-5435,Edgar Noël,Paris,9
-7610,Lucien Lagarde,Toulouse,20
-8285,Jean Fontaine,Lyon,17
-4073,Hugo Lagarde,Strasbourg,78
-7530,Edgar Perrot,Lille,81
-5001,Lucien Moreau,Strasbourg,56
-6447,Jean Girard,Bordelon,84
-2622,Jean Lemoine,Rennes,43
-2318,Marie Perrot,Bordelon,11
-8781,Marie Petit,Strasbourg,70
-8798,Thomas Perrot,Rennes,15
-7893,Jean Lemoine,Toulouse,42
-5106,Thomas Moreau,Strasbourg,17
-7700,Alice Fontaine,Lyon,87
-5495,Jean Lemoine,Paris,98
-6173,Thomas Moreau,Nantes,67
-5592,Hugo Lemoine,Strasbourg,94
-5105,Claire Lemoine,Lyon,78
-2310,Edgar Fontaine,Marseille,92
-4473,Thomas Noël,Lille,10
-7888,Edgar Noël,Lille,16
-8602,Marie Perrot,Rennes,25
-7998,Sophie Dubois,Toulouse,90
-9374,Lucien Perrot,Nantes,50
-9676,Élise Lagarde,Nice,86
-2858,Edgar Girard,Nantes,84
-4045,Élise Petit,Toulouse,17
-8840,Thomas Girard,Rennes,69
-9974,Alice Girard,Toulouse,76
-5345,Alice Fontaine,Bordelon,94
-2067,Marie Fontaine,Marseille,82
-9002,Sophie Noël,Lyon,51
-6446,Élise Denton,Bordelon,60
-3830,Sophie Fontaine,Bordelon,100
-3934,Élise Dubois,Rennes,46
-3918,Claire Denton,Rennes,10
-3396,Thomas Fontaine,Paris,2
-8872,Sophie Noël,Toulouse,64
-2616,Jean Denton,Bordelon,99
-6284,Élise Girard,Paris,55
-7757,Marie Perrot,Nantes,14
-1433,Sophie Denton,Paris,91
-8432,Marie Lagarde,Toulouse,93
-3352,Edgar Moreau,Lyon,74
-1887,Thomas Petit,Rennes,0
-9161,Edgar Petit,Strasbourg,48
-2250,Lucien Moreau,Nice,74
-8286,Alice Petit,Rennes,45
-6748,Marie Lagarde,Lyon,58
-9363,Élise Petit,Toulouse,99
-4635,Lucien Petit,Toulouse,39
-7256,Edgar Dubois,Lille,11
-3074,Thomas Denton,Lyon,49
-5516,Claire Petit,Lille,3
-5002,Marie Moreau,Nantes,41
-3725,Claire Moreau,Marseille,91
-2277,Hugo Petit,Rennes,23
-7744,Claire Girard,Lyon,35
-5754,Sophie Petit,Nantes,78
-7012,Alice Lagarde,Bordelon,18
-1338,Lucien Petit,Nice,29
-3300,Jean Fontaine,Lyon,18
-7358,Marie Perrot,Paris,14
-4363,Élise Girard,Marseille,8
-7573,Marie Denton,Toulouse,0
-9458,Alice Petit,Lyon,25
-9249,Edgar Girard,Lyon,66
-1167,Edgar Lagarde,Rennes,43
-5712,Hugo Perrot,Strasbourg,24
-4455,Élise Lemoine,Lyon,22
-9090,Claire Girard,Lyon,41
-4731,Sophie Denton,Toulouse,59
-9267,Edgar Moreau,Toulouse,14
-7538,Edgar Perrot,Toulouse,75
-6784,Claire Fontaine,Strasbourg,85
-7693,Hugo Perrot,Nantes,9
-3049,Hugo Petit,Rennes,46
-6312,Jean Fontaine,Marseille,69
-9154,Sophie Petit,Marseille,78
-2103,Sophie Girard,Toulouse,71
-3482,Thomas Dubois,Toulouse,75
-3625,Edgar Perrot,Strasbourg,58
-8311,Hugo Dubois,Strasbourg,0
-6939,Sophie Lemoine,Lille,49
-2141,Lucien Lagarde,Toulouse,8
-1723,Sophie Denton,Strasbourg,14
-3490,Edgar Petit,Strasbourg,23
-2943,Edgar Perrot,Rennes,33
-1103,Élise Denton,Lille,91
-7753,Lucien Noël,Nantes,51
-9556,Lucien Denton,Marseille,70
-3676,Jean Fontaine,Rennes,53
-3101,Jean Fontaine,Toulouse,80
-5367,Alice Lagarde,Marseille,17
-2470,Marie Denton,Rennes,61
-4096,Élise Denton,Nantes,46
-2791,Claire Lagarde,Toulouse,40
-2190,Hugo Petit,Toulouse,30
-9813,Hugo Denton,Marseille,85
-6347,Hugo Petit,Nice,82
-4998,Sophie Girard,Rennes,39
-7824,Jean Girard,Marseille,53
-2492,Claire Lemoine,Nantes,100
-3622,Marie Petit,Toulouse,60
-4302,Edgar Dubois,Strasbourg,99
-5281,Sophie Lemoine,Nice,13
-7374,Jean Dubois,Bordelon,26
-6880,Thomas Moreau,Marseille,94
-9144,Lucien Girard,Toulouse,54
-1365,Marie Petit,Lyon,74
-6996,Jean Moreau,Lyon,46
-2554,Thomas Lagarde,Nantes,21
-8092,Lucien Girard,Marseille,20
-3021,Alice Fontaine,Toulouse,2
-6572,Élise Moreau,Marseille,20
-4412,Alice Girard,Nice,83
-2282,Edgar Petit,Nice,80
-5608,Élise Moreau,Strasbourg,20
-6544,Élise Denton,Nantes,32
-3001,Lucien Girard,Rennes,15
-8673,Claire Dubois,Strasbourg,54
-4927,Edgar Petit,Paris,26
-2922,Sophie Moreau,Lyon,75
-1823,Élise Noël,Paris,21
-8821,Jean Dubois,Nantes,90
-7239,Élise Girard,Toulouse,75
-8793,Edgar Lagarde,Strasbourg,58
-8746,Marie Girard,Strasbourg,84
-3056,Marie Denton,Paris,42
-3760,Claire Moreau,Bordelon,60
-8942,Alice Noël,Strasbourg,83
-3314,Lucien Fontaine,Rennes,20
-3220,Jean Girard,Lille,56
-5084,Edgar Dubois,Paris,22
-1034,Élise Perrot,Nantes,25
-3700,Marie Fontaine,Marseille,91
-6073,Alice Moreau,Bordelon,88
-7527,Alice Moreau,Nantes,1
-7978,Lucien Moreau,Toulouse,71
-4079,Claire Perrot,Nantes,10
-1211,Sophie Denton,Lyon,34
-2836,Thomas Moreau,Lyon,33
-1999,Jean Petit,Marseille,23
-1807,Élise Moreau,Nice,0
-1794,Hugo Girard,Lyon,47
-6298,Thomas Petit,Nantes,19
-5115,Élise Fontaine,Nice,20
-3521,Alice Lemoine,Marseille,64
-7772,Thomas Moreau,Strasbourg,27
-3282,Sophie Lagarde,Nice,64
-5298,Jean Perrot,Nice,78
-7068,Alice Lemoine,Bordelon,25
-3313,Alice Lagarde,Nantes,5
-5265,Thomas Noël,Bordelon,57
-7975,Edgar Lagarde,Lille,29
-8357,Marie Moreau,Lyon,52
-6049,Élise Perrot,Rennes,39
-5496,Sophie Lemoine,Marseille,49
-8023,Thomas Perrot,Bordelon,99
-6062,Jean Lagarde,Rennes,13
-6416,Élise Lagarde,Marseille,96
-5647,Jean Denton,Nice,69
-4962,Jean Moreau,Paris,33
-4284,Sophie Girard,Lille,92
-3923,Edgar Moreau,Lyon,43
-6777,Edgar Denton,Rennes,42
-1547,Thomas Denton,Nantes,93
-4966,Sophie Lagarde,Paris,29
-9481,Jean Denton,Nantes,2
-5007,Marie Girard,Nantes,77
-4008,Edgar Dubois,Toulouse,26
-6206,Sophie Fontaine,Bordelon,41
-7135,Élise Denton,Marseille,7
-4685,Alice Fontaine,Nice,36
-6479,Thomas Dubois,Rennes,72
-5726,Marie Denton,Toulouse,36
-1077,Thomas Dubois,Lyon,32
-1428,Élise Noël,Marseille,28
-7661,Sophie Girard,Marseille,28
-5935,Lucien Lemoine,Marseille,95
-2418,Jean Noël,Nantes,5
-3451,Claire Moreau,Nice,41
-9272,Edgar Dubois,Rennes,79
-5014,Claire Girard,Rennes,85
-3690,Edgar Lemoine,Toulouse,27
-9381,Alice Petit,Paris,46
-8167,Marie Noël,Paris,80
-6418,Claire Noël,Strasbourg,9
-9539,Thomas Petit,Paris,56
-3998,Élise Fontaine,Nice,76
-6388,Élise Denton,Strasbourg,53
-8621,Thomas Lemoine,Strasbourg,43
-6710,Sophie Petit,Lille,86
-1962,Sophie Perrot,Nantes,1
-6134,Jean Moreau,Strasbourg,14
-1234,Élise Lagarde,Nice,79
-4466,Claire Lemoine,Bordelon,7
-5348,Alice Dubois,Paris,32
-3647,Thomas Dubois,Rennes,61
-3474,Sophie Noël,Paris,82
-5093,Hugo Petit,Paris,20
-5943,Hugo Fontaine,Rennes,21
-2878,Jean Moreau,Nice,89
-4884,Marie Noël,Nice,63
-2766,Marie Lemoine,Nantes,83
-5823,Claire Dubois,Marseille,82
-1569,Alice Moreau,Nice,65
-1184,Sophie Noël,Paris,91
-1129,Alice Petit,Rennes,80
-8609,Edgar Moreau,Marseille,75
-3383,Edgar Girard,Rennes,2
-7609,Marie Fontaine,Nantes,71
-9661,Thomas Lagarde,Paris,22
-1781,Marie Dubois,Strasbourg,48
-4093,Marie Lagarde,Bordelon,45
-8049,Élise Lagarde,Nantes,48
-1148,Jean Lagarde,Bordelon,1
-1977,Hugo Perrot,Nice,20
-2553,Claire Noël,Lyon,2
-5543,Élise Fontaine,Lyon,86
-8061,Thomas Lemoine,Paris,6
-9952,Jean Noël,Paris,86
-1992,Jean Denton,Bordelon,3
-1795,Hugo Lemoine,Nantes,40
-3165,Claire Dubois,Lille,21
-4721,Alice Perrot,Bordelon,82
-2782,Marie Moreau,Lyon,79
-5269,Edgar Perrot,Bordelon,38
-2753,Lucien Noël,Lyon,51
-9955,Alice Noël,Paris,84
-8412,Jean Moreau,Lyon,92
-7142,Edgar Dubois,Marseille,29
-1673,Sophie Noël,Rennes,38
-3942,Jean Dubois,Toulouse,37
-2811,Marie Lemoine,Nice,46
-7474,Sophie Dubois,Lille,40
-7212,Claire Lemoine,Nice,66
-8476,Marie Lagarde,Rennes,99
-3877,Alice Denton,Nice,12
-6393,Claire Noël,Bordelon,10
-2370,Sophie Perrot,Bordelon,53
-5175,Thomas Denton,Lyon,4
-7536,Edgar Girard,Lille,81
-1318,Jean Petit,Nantes,48
-4603,Edgar Dubois,Marseille,46
-1609,Hugo Perrot,Lyon,23
-2916,Lucien Perrot,Bordelon,93
-9699,Thomas Perrot,Bordelon,1
-6968,Sophie Denton,Marseille,47
-9102,Sophie Lemoine,Nice,41
-7900,Claire Dubois,Paris,74
-6491,Alice Moreau,Marseille,97
-3030,Thomas Denton,Marseille,94
-9473,Alice Petit,Marseille,12
-7331,Claire Denton,Nantes,17
-7478,Claire Noël,Toulouse,47
-7303,Alice Dubois,Nice,12
-3651,Élise Moreau,Paris,21
-1682,Jean Petit,Nice,0
-9113,Élise Noël,Lille,81
-7330,Alice Moreau,Rennes,67
-9299,Alice Perrot,Marseille,78
-9778,Élise Perrot,Bordelon,57
-2579,Edgar Petit,Toulouse,71
-3306,Claire Fontaine,Bordelon,75
-4604,Jean Fontaine,Rennes,91
-7813,Élise Denton,Rennes,28
-7458,Jean Denton,Marseille,59
-9551,Hugo Lagarde,Strasbourg,19
-3788,Élise Moreau,Nice,25
-7382,Claire Girard,Toulouse,83
-2357,Hugo Dubois,Nice,75
-7119,Edgar Noël,Lille,17
-6677,Thomas Petit,Marseille,64
-4832,Thomas Lagarde,Nantes,96
-5397,Thomas Dubois,Lyon,31
-1324,Marie Fontaine,Marseille,87
-6813,Jean Petit,Bordelon,51
-6842,Marie Lemoine,Marseille,66
-8036,Élise Dubois,Rennes,35
-8766,Thomas Fontaine,Strasbourg,63
-2625,Élise Petit,Bordelon,14
-2341,Lucien Fontaine,Toulouse,75
-5831,Edgar Dubois,Rennes,74
-6109,Edgar Lemoine,Lyon,97
-9478,Alice Noël,Nice,47
-2712,Marie Girard,Bordelon,65
-6310,Lucien Denton,Strasbourg,0
-7172,Alice Noël,Paris,6
-9918,Sophie Fontaine,Toulouse,69
-5563,Lucien Lagarde,Toulouse,42
-7724,Alice Moreau,Nantes,89
-3053,Marie Moreau,Rennes,98
-3279,Alice Petit,Toulouse,31
-9323,Marie Girard,Lyon,59
-5104,Alice Perrot,Lille,100
-1142,Thomas Noël,Lyon,38
-1926,Claire Noël,Rennes,18
-7011,Jean Denton,Bordelon,66
-5975,Claire Fontaine,Strasbourg,84
-8011,Hugo Noël,Paris,93
-3712,Hugo Denton,Nice,5
-5869,Thomas Moreau,Marseille,66
-9585,Jean Girard,Paris,17
-7637,Lucien Noël,Strasbourg,97
-2655,Jean Noël,Nice,24
-3212,Claire Noël,Nice,91
-9712,Jean Petit,Toulouse,17
-1177,Hugo Perrot,Paris,30
-5689,Lucien Fontaine,Bordelon,15
-1155,Élise Fontaine,Nice,70
-4722,Lucien Petit,Nice,19
-5048,Élise Girard,Nantes,17
-6050,Jean Dubois,Paris,15
-7780,Hugo Lagarde,Paris,20
-5741,Edgar Moreau,Marseille,1
-1668,Edgar Lagarde,Lille,37
-5990,Jean Perrot,Strasbourg,41
-7279,Claire Dubois,Nice,93
-6715,Alice Petit,Bordelon,0
-1833,Edgar Petit,Paris,94
-8177,Claire Girard,Strasbourg,73
-5295,Thomas Dubois,Bordelon,70
-1880,Thomas Lemoine,Lille,1
-7712,Claire Noël,Rennes,32
-9870,Thomas Lagarde,Strasbourg,34
-8305,Alice Lagarde,Marseille,90
-9982,Sophie Noël,Strasbourg,12
-8260,Alice Noël,Bordelon,77
-4990,Claire Perrot,Marseille,89
-7571,Élise Moreau,Lille,57
-8213,Thomas Denton,Lyon,9
-8431,Edgar Fontaine,Lyon,45
-1915,Élise Lagarde,Marseille,42
-6401,Lucien Lemoine,Lyon,77
-8129,Jean Girard,Rennes,91
-7144,Sophie Noël,Nantes,86
-7766,Hugo Noël,Lille,84
-5873,Hugo Lagarde,Strasbourg,24
-1633,Claire Dubois,Marseille,19
-2035,Lucien Dubois,Toulouse,16
-8657,Sophie Girard,Strasbourg,18
-2750,Edgar Lagarde,Lille,11
-9470,Thomas Fontaine,Bordelon,61
-7143,Marie Lagarde,Lille,62
-6252,Thomas Noël,Lyon,40
-6803,Hugo Dubois,Toulouse,84
-1218,Élise Petit,Nice,8
-1472,Marie Noël,Bordelon,68
-6065,Jean Petit,Bordelon,61
-7826,Élise Lagarde,Marseille,59
-1262,Hugo Moreau,Lyon,55
-7874,Alice Lemoine,Nice,3
-5914,Sophie Denton,Lille,4
-9802,Alice Petit,Paris,14
-5087,Claire Noël,Lille,30
-2198,Thomas Fontaine,Paris,27
-6211,Sophie Lagarde,Nice,3
-5794,Élise Lagarde,Nantes,50
-8504,Alice Girard,Marseille,91
-1602,Edgar Lemoine,Rennes,41
-5389,Thomas Fontaine,Rennes,77
-6603,Marie Dubois,Rennes,1
-8014,Élise Noël,Marseille,32
-9684,Lucien Lemoine,Lyon,12
-1022,Sophie Moreau,Paris,72
-8281,Lucien Girard,Nice,7
-9152,Alice Fontaine,Paris,100
-8846,Marie Fontaine,Marseille,73
-6830,Sophie Denton,Lyon,88
-1455,Lucien Fontaine,Bordelon,55
-6997,Lucien Dubois,Rennes,33
-9307,Lucien Moreau,Lyon,43
-2900,Hugo Petit,Toulouse,7
-3085,Alice Lagarde,Nice,66
-6035,Lucien Fontaine,Nice,61
-2623,Edgar Fontaine,Nice,31
-5161,Marie Fontaine,Marseille,66
-8993,Alice Perrot,Nice,64
-2735,Alice Noël,Rennes,10
-6577,Jean Fontaine,Nice,9
-3489,Edgar Denton,Lyon,44
-9166,Lucien Noël,Nice,44
-4446,Thomas Dubois,Strasbourg,62
-7640,Thomas Dubois,Nantes,12
-2609,Marie Lemoine,Lille,17
-5230,Hugo Lemoine,Strasbourg,93
-2434,Edgar Lemoine,Marseille,82
-1964,Hugo Petit,Rennes,100
-1305,Lucien Lemoine,Paris,39
-1434,Lucien Fontaine,Lyon,5
-5021,Sophie Lemoine,Lyon,83
-4192,Lucien Dubois,Strasbourg,26
-6609,Sophie Girard,Nice,65
-4665,Claire Noël,Lille,72
-1188,Sophie Petit,Rennes,36
-6495,Marie Lagarde,Nice,40
-5648,Hugo Denton,Bordelon,25
-2085,Marie Lemoine,Nice,5
-5957,Marie Lemoine,Paris,79
-1511,Claire Lemoine,Toulouse,79
-4793,Lucien Petit,Marseille,58
-2937,Thomas Girard,Nice,85
-3119,Marie Fontaine,Nantes,18
-6509,Jean Lagarde,Marseille,51
-1942,Hugo Moreau,Marseille,43
-3902,Claire Moreau,Paris,45
-8527,Alice Lagarde,Nantes,76
-6235,Élise Noël,Marseille,81
-1530,Claire Lagarde,Bordelon,6
-4552,Edgar Girard,Lille,6
-8219,Edgar Petit,Nice,93
-8760,Jean Dubois,Nice,48
-5721,Jean Fontaine,Toulouse,82
-8163,Claire Moreau,Marseille,65
-6614,Edgar Petit,Strasbourg,1
-6419,Élise Lagarde,Lille,10
-4084,Élise Girard,Strasbourg,62
-6355,Claire Perrot,Bordelon,99
-9710,Thomas Lemoine,Paris,12
-6308,Hugo Perrot,Rennes,7
-3417,Lucien Noël,Lille,7
-5965,Sophie Lemoine,Bordelon,19
-8537,Élise Noël,Bordelon,81
-1156,Sophie Perrot,Marseille,54
-8713,Marie Girard,Lyon,37
-6582,Élise Denton,Lyon,89
-6739,Jean Moreau,Marseille,2
-1768,Claire Perrot,Bordelon,76
-9682,Alice Noël,Nice,41
-2431,Alice Lemoine,Toulouse,13
-3465,Élise Lemoine,Nice,98
-2426,Hugo Lemoine,Strasbourg,94
-7100,Lucien Lagarde,Bordelon,28
-3271,Edgar Girard,Bordelon,31
-8371,Alice Fontaine,Toulouse,49
-1146,Alice Dubois,Toulouse,28
-5708,Jean Denton,Bordelon,67
-3513,Edgar Lemoine,Strasbourg,60
-6162,Alice Moreau,Toulouse,44
-1815,Alice Denton,Bordelon,53
-1617,Élise Dubois,Bordelon,67
-3120,Alice Moreau,Paris,76
-9474,Sophie Perrot,Nantes,90
-5146,Alice Girard,Toulouse,16
-3948,Claire Denton,Rennes,15
-1082,Thomas Moreau,Bordelon,8
-5323,Marie Dubois,Lyon,17
-2958,Sophie Petit,Nantes,42
-4181,Claire Perrot,Marseille,9
-7023,Edgar Moreau,Nantes,25
-5696,Thomas Petit,Nice,11
-1307,Thomas Petit,Rennes,62
-1733,Alice Denton,Nice,91
-3406,Marie Moreau,Nice,28
-7769,Thomas Dubois,Bordelon,91
-7516,Claire Fontaine,Nantes,8
-2972,Élise Moreau,Strasbourg,97
-5687,Marie Lagarde,Toulouse,30
-3163,Lucien Denton,Nantes,21
-6092,Alice Noël,Lyon,11
-1709,Marie Denton,Nice,15
-9494,Marie Lagarde,Nantes,98
-8933,Élise Dubois,Nantes,35
-7161,Sophie Lagarde,Paris,86
-5889,Jean Fontaine,Bordelon,61
-7408,Claire Lagarde,Rennes,64
-8284,Jean Dubois,Lille,35
-5386,Sophie Noël,Lyon,19
-5472,Hugo Lemoine,Nantes,8
-2297,Sophie Perrot,Nice,80
-9990,Hugo Lagarde,Nice,12
-4511,Jean Fontaine,Bordelon,96
-3328,Alice Petit,Rennes,98
-1615,Jean Girard,Toulouse,16
-9958,Claire Moreau,Toulouse,57
-9150,Jean Petit,Marseille,80
-2251,Claire Moreau,Lille,55
-5917,Sophie Perrot,Nice,100
-8173,Élise Dubois,Bordelon,32
-6766,Marie Lemoine,Lille,61
-7796,Thomas Girard,Rennes,33
-5554,Alice Lagarde,Lille,80
-6099,Thomas Denton,Strasbourg,17
-1703,Élise Denton,Bordelon,66
-6114,Lucien Petit,Rennes,56
-8923,Élise Dubois,Strasbourg,97
-3545,Hugo Petit,Lille,94
-8726,Hugo Moreau,Toulouse,34
-9694,Thomas Perrot,Toulouse,1
-9700,Edgar Dubois,Marseille,94
-7989,Hugo Lagarde,Nantes,75
-7518,Sophie Lemoine,Lyon,75
-1217,Jean Lemoine,Strasbourg,35
-5437,Jean Petit,Lyon,32
-9855,Lucien Moreau,Lille,55
-5294,Élise Petit,Paris,1
-2954,Élise Fontaine,Nantes,92
-1024,Lucien Petit,Strasbourg,8
-4032,Edgar Petit,Bordelon,11
-6275,Claire Perrot,Bordelon,6
-3863,Jean Dubois,Rennes,92
-8791,Hugo Fontaine,Paris,24
-4160,Thomas Girard,Paris,55
-9003,Sophie Petit,Strasbourg,91
-1707,Hugo Petit,Toulouse,65
-2304,Lucien Noël,Nantes,63
-4196,Claire Noël,Paris,35
-4017,Marie Fontaine,Lille,28
-2545,Alice Noël,Paris,80
-1963,Jean Moreau,Nantes,88
-2075,Edgar Petit,Toulouse,91
-4778,Claire Petit,Toulouse,34
-2585,Sophie Perrot,Nantes,54
-3146,Sophie Lagarde,Paris,4
-9377,Jean Denton,Lyon,99
-7759,Jean Dubois,Nice,52
-5862,Claire Moreau,Rennes,68
-2575,Élise Moreau,Marseille,97
-5662,Thomas Moreau,Lille,92
-8736,Edgar Denton,Paris,54
-2327,Sophie Petit,Paris,98
-3491,Élise Noël,Strasbourg,85
-7270,Claire Fontaine,Paris,38
-4742,Edgar Fontaine,Nice,89
-1651,Claire Noël,Nice,37
-2785,Jean Girard,Strasbourg,14
-8696,Claire Denton,Nantes,18
-9732,Alice Noël,Nantes,18
-9795,Edgar Noël,Lyon,100
-6753,Thomas Fontaine,Lille,8
-5515,Marie Moreau,Paris,20
-3426,Marie Denton,Marseille,18
-7909,Hugo Lemoine,Nantes,84
-2456,Claire Lagarde,Strasbourg,83
-9452,Alice Girard,Paris,20
-6642,Claire Petit,Lyon,53
-6186,Claire Petit,Toulouse,48
-3403,Edgar Petit,Strasbourg,43
-6630,Edgar Lagarde,Lille,12
-9484,Lucien Lemoine,Marseille,78
-9095,Thomas Girard,Nice,59
-9114,Thomas Lemoine,Strasbourg,80
-9031,Jean Girard,Paris,21
-2860,Alice Lagarde,Bordelon,62
-6083,Alice Moreau,Nantes,78
-8809,Thomas Denton,Rennes,86
-1274,Élise Lagarde,Marseille,76
-3205,Sophie Denton,Lyon,88
-2007,Lucien Girard,Strasbourg,22
-4774,Jean Petit,Nantes,27
-4864,Lucien Moreau,Nice,64
-6623,Élise Dubois,Marseille,76
-5301,Claire Perrot,Lille,95
-7271,Alice Girard,Nice,59
-2220,Élise Perrot,Nice,91
-6960,Thomas Dubois,Nice,59
-4799,Alice Girard,Strasbourg,48
-1990,Hugo Dubois,Toulouse,20
-8770,Thomas Noël,Nantes,34
-2963,Marie Moreau,Strasbourg,77
-3809,Edgar Dubois,Lyon,96
-2702,Hugo Perrot,Nice,8
-5400,Edgar Lemoine,Nantes,76
-2949,Lucien Fontaine,Nantes,22
-4686,Hugo Lemoine,Bordelon,20
-4020,Edgar Perrot,Lille,50
-8390,Thomas Perrot,Toulouse,27
-9224,Marie Moreau,Marseille,19
-3955,Sophie Noël,Lille,30
-5391,Claire Lemoine,Toulouse,89
-7377,Edgar Fontaine,Toulouse,95
-1348,Edgar Lagarde,Nantes,27
-8715,Alice Noël,Rennes,92
-4231,Sophie Noël,Marseille,85
-9151,Claire Noël,Toulouse,25
-1459,Lucien Moreau,Toulouse,94
-4088,Edgar Perrot,Marseille,66
-5947,Lucien Perrot,Bordelon,15
-7798,Alice Lagarde,Marseille,42
-4973,Alice Lagarde,Rennes,91
-1388,Élise Fontaine,Marseille,39
-4204,Hugo Fontaine,Toulouse,63
-9994,Marie Fontaine,Nice,18
-2940,Claire Denton,Toulouse,26
-5903,Sophie Noël,Nice,31
-8503,Marie Petit,Bordelon,57
-7224,Jean Dubois,Marseille,68
-6994,Alice Petit,Toulouse,9
-1189,Jean Dubois,Lille,16
-3015,Sophie Lagarde,Lyon,73
-1363,Claire Denton,Paris,100
-6579,Alice Lagarde,Lyon,76
-9839,Hugo Fontaine,Nice,47
-4057,Claire Girard,Strasbourg,94
-4712,Edgar Denton,Toulouse,38
-4946,Sophie Noël,Marseille,84
-6428,Edgar Fontaine,Marseille,96
-8423,Thomas Denton,Nantes,83
-1090,Élise Lagarde,Toulouse,1
-2578,Lucien Lemoine,Marseille,38
-8470,Jean Fontaine,Rennes,51
-5928,Marie Lagarde,Toulouse,57
-9819,Lucien Moreau,Rennes,42
-5267,Hugo Dubois,Toulouse,45
-4764,Sophie Denton,Rennes,25
-7120,Sophie Fontaine,Strasbourg,24
-8495,Lucien Lagarde,Lille,78
-9861,Thomas Petit,Bordelon,51
-1192,Élise Fontaine,Strasbourg,77
-4117,Sophie Fontaine,Rennes,75
-6040,Alice Noël,Paris,74
-8289,Sophie Lagarde,Lille,63
-2289,Sophie Lagarde,Nice,35
-8464,Lucien Lemoine,Toulouse,59
-5941,Sophie Lagarde,Toulouse,58
-6194,Élise Dubois,Paris,24
-8944,Élise Noël,Lille,48
-5503,Sophie Dubois,Marseille,7
-2237,Élise Fontaine,Marseille,98
-3858,Marie Noël,Rennes,80
-1247,Edgar Dubois,Nantes,47
-9940,Edgar Lagarde,Lyon,22
-8526,Alice Fontaine,Lyon,2
-9496,Edgar Girard,Strasbourg,79
-3780,Élise Moreau,Nice,77
-5255,Lucien Noël,Bordelon,100
-2003,Hugo Noël,Lille,83
-8422,Lucien Lagarde,Paris,49
-9316,Lucien Petit,Bordelon,57
-4716,Alice Lagarde,Bordelon,47
-2835,Thomas Perrot,Strasbourg,99
-1933,Sophie Girard,Marseille,24
-7464,Sophie Dubois,Nantes,18
-7284,Thomas Girard,Strasbourg,33
-5127,Élise Perrot,Marseille,69
-4023,Élise Moreau,Bordelon,57
-5484,Marie Fontaine,Nantes,50
-8441,Jean Perrot,Lyon,84
-9599,Élise Petit,Nice,81
-7984,Lucien Noël,Toulouse,79
-7542,Élise Petit,Lille,73
-8681,Élise Fontaine,Paris,72
-2540,Thomas Lemoine,Rennes,34
-2833,Marie Denton,Lyon,34
-4572,Claire Petit,Lyon,76
-6093,Hugo Girard,Nice,36
-8287,Claire Dubois,Bordelon,81
-2351,Lucien Denton,Bordelon,95
-5356,Claire Denton,Nantes,13
-8930,Claire Noël,Marseille,22
-2397,Edgar Denton,Lyon,95
-2863,Lucien Lagarde,Lyon,51
-4371,Élise Moreau,Toulouse,44
-8918,Alice Perrot,Toulouse,85
-6767,Claire Lagarde,Strasbourg,13
-5330,Hugo Noël,Paris,97
-9630,Lucien Moreau,Lille,65
-6836,Lucien Girard,Bordelon,50
-4963,Marie Noël,Nantes,14
-9640,Jean Petit,Nice,59
-1955,Jean Lagarde,Paris,64
-9522,Edgar Noël,Rennes,52
-2564,Claire Dubois,Rennes,33
-9542,Sophie Girard,Nice,47
-8249,Élise Petit,Nice,88
-9996,Claire Denton,Paris,17
-1979,Thomas Moreau,Marseille,21
-2882,Claire Fontaine,Bordelon,48
-1914,Jean Lagarde,Nice,91
-5719,Lucien Petit,Rennes,12
-9931,Alice Lemoine,Nice,0
-9223,Claire Girard,Lyon,99
-4739,Sophie Dubois,Lille,68
-8938,Claire Dubois,Marseille,2
-2455,Hugo Fontaine,Lyon,11
-1266,Hugo Moreau,Bordelon,67
-6820,Jean Noël,Paris,29
-3121,Jean Petit,Toulouse,28
-6349,Claire Lagarde,Nice,30
-4960,Hugo Noël,Marseille,21
-2457,Hugo Moreau,Lille,44
-6631,Thomas Moreau,Toulouse,5
-2761,Jean Dubois,Rennes,9
-5459,Thomas Fontaine,Strasbourg,86
-6128,Jean Noël,Nice,85
-6843,Edgar Dubois,Strasbourg,52
-8368,Lucien Petit,Marseille,59
-4873,Sophie Petit,Lille,99
-7228,Claire Fontaine,Lille,16
-1125,Jean Moreau,Strasbourg,96
-4090,Élise Fontaine,Paris,70
-3404,Marie Lemoine,Lille,96
-5149,Marie Lemoine,Lyon,11
-6735,Marie Lemoine,Marseille,82
-8982,Edgar Perrot,Toulouse,67
-9157,Lucien Denton,Nantes,13
-2447,Claire Petit,Rennes,84
-7058,Sophie Noël,Lille,52
-5594,Lucien Dubois,Rennes,86
-4564,Alice Girard,Bordelon,84
-7930,Alice Girard,Lille,64
-8021,Alice Perrot,Nantes,96
-6816,Élise Noël,Toulouse,9
-8420,Alice Noël,Lille,58
-4532,Jean Lemoine,Lille,53
-7320,Élise Dubois,Paris,18
-7553,Élise Petit,Lille,74
-7721,Edgar Moreau,Nice,68
-1407,Alice Fontaine,Lille,49
-9209,Marie Dubois,Nantes,28
-9445,Marie Fontaine,Nice,12
-3692,Thomas Girard,Strasbourg,81
-5065,Sophie Dubois,Bordelon,91
-1947,Sophie Dubois,Nantes,83
-9654,Thomas Dubois,Lille,0
-4157,Claire Denton,Rennes,22
-8990,Edgar Lemoine,Rennes,18
-4577,Thomas Perrot,Strasbourg,75
-2036,Sophie Lemoine,Rennes,95
-5018,Marie Perrot,Bordelon,27
-2528,Thomas Denton,Bordelon,48
-1450,Jean Girard,Marseille,65
-7289,Alice Perrot,Paris,79
-4046,Lucien Fontaine,Marseille,37
-7260,Thomas Dubois,Rennes,78
-6361,Alice Noël,Lille,17
-7151,Hugo Lemoine,Lille,68
-4708,Sophie Girard,Strasbourg,22
-5209,Jean Lagarde,Rennes,42
-1893,Edgar Noël,Lyon,89
-7643,Sophie Girard,Lyon,93
-1317,Hugo Perrot,Nice,82
-2087,Lucien Denton,Toulouse,58
-9648,Élise Noël,Nantes,83
-3059,Hugo Lemoine,Nice,67
-5891,Marie Petit,Nantes,99
-6537,Hugo Lagarde,Nice,17
-8645,Hugo Noël,Nantes,25
-6373,Marie Moreau,Lille,73
-9983,Claire Girard,Nantes,28
-9405,Claire Petit,Rennes,6
-7018,Hugo Lagarde,Lyon,85
-5974,Marie Girard,Nantes,53
-5482,Lucien Fontaine,Rennes,15
-4308,Thomas Dubois,Paris,97
-1550,Lucien Petit,Paris,7
-3461,Hugo Perrot,Bordelon,81
-8947,Marie Moreau,Lille,55
-1042,Hugo Dubois,Nice,62
-1025,Marie Denton,Bordelon,74
-8712,Élise Lemoine,Nantes,29
-6443,Lucien Perrot,Nantes,56
-6464,Thomas Petit,Bordelon,100
-2711,Claire Fontaine,Bordelon,91
-2044,Marie Denton,Nantes,44
-7752,Thomas Dubois,Rennes,24
-8559,Thomas Petit,Strasbourg,67
-8039,Alice Noël,Marseille,58
-9816,Alice Dubois,Marseille,96
-4498,Edgar Denton,Paris,90
-8667,Hugo Girard,Lille,16
-8514,Thomas Petit,Marseille,76
-3408,Jean Perrot,Rennes,20
-7025,Hugo Girard,Lille,30
-3784,Claire Girard,Marseille,15
-7090,Alice Girard,Rennes,70
-6066,Lucien Denton,Lyon,61
-2526,Hugo Noël,Lyon,100
-8753,Élise Moreau,Bordelon,11
-6569,Thomas Dubois,Lyon,37
-2030,Claire Fontaine,Nice,58
-6732,Lucien Moreau,Paris,53
-4997,Sophie Denton,Toulouse,25
-4199,Alice Moreau,Strasbourg,21
-6650,Edgar Lagarde,Lille,54
-2437,Alice Lemoine,Bordelon,9
-3183,Thomas Moreau,Lille,44
-9680,Thomas Girard,Strasbourg,19
-5523,Jean Moreau,Nice,64
-6345,Claire Perrot,Strasbourg,85
-9943,Sophie Girard,Nantes,51
-9543,Hugo Moreau,Rennes,94
-9275,Alice Girard,Lyon,10
-5728,Hugo Denton,Lille,46
-7649,Marie Denton,Bordelon,6
-8363,Sophie Denton,Rennes,10
-4229,Élise Perrot,Bordelon,35
-1943,Sophie Lagarde,Paris,99
-2278,Lucien Dubois,Nice,73
-3485,Hugo Lagarde,Strasbourg,23
-4240,Thomas Dubois,Nantes,40
-6776,Marie Lemoine,Nice,21
-9453,Élise Perrot,Nantes,66
-1605,Jean Fontaine,Strasbourg,64
-6738,Alice Lagarde,Nantes,19
-5790,Edgar Girard,Lille,1
-2094,Edgar Noël,Strasbourg,100
-8341,Lucien Perrot,Bordelon,8
-4306,Élise Perrot,Marseille,72
-6557,Claire Girard,Strasbourg,61
-5522,Thomas Denton,Strasbourg,18
-9422,Lucien Girard,Nantes,64
-3192,Claire Denton,Lille,21
-1677,Edgar Lemoine,Nice,2
-4404,Lucien Dubois,Toulouse,13
-5438,Thomas Petit,Nantes,72
-3663,Sophie Noël,Lille,59
-6171,Sophie Petit,Toulouse,76
-1175,Jean Lagarde,Lyon,43
-5773,Lucien Moreau,Paris,90
-8710,Thomas Noël,Nantes,47
-4369,Sophie Fontaine,Lyon,30
-2188,Edgar Moreau,Marseille,62
-1399,Alice Noël,Lyon,88
-4168,Thomas Fontaine,Bordelon,42
-3178,Thomas Girard,Rennes,83
-7178,Thomas Noël,Bordelon,25
-6604,Edgar Girard,Bordelon,26
-8192,Jean Lemoine,Marseille,85
-8068,Lucien Girard,Marseille,95
-5109,Sophie Denton,Bordelon,31
-3599,Thomas Petit,Nice,24
-4676,Jean Lemoine,Paris,46
-5457,Edgar Petit,Marseille,45
-9576,Claire Dubois,Bordelon,87
-8112,Sophie Lemoine,Nantes,88
-5769,Élise Moreau,Bordelon,47
-2371,Thomas Noël,Strasbourg,26
-1713,Lucien Moreau,Toulouse,63
-1937,Alice Lemoine,Lille,98
-6808,Sophie Dubois,Nantes,28
-7357,Sophie Perrot,Nantes,88
-1447,Claire Perrot,Nice,57
-2165,Alice Perrot,Toulouse,18
-6278,Marie Moreau,Strasbourg,77
-3856,Edgar Moreau,Paris,33
-5656,Lucien Moreau,Marseille,42
-4465,Alice Dubois,Lille,6
-4448,Élise Moreau,Toulouse,22
-6224,Jean Dubois,Bordelon,5
-5293,Alice Noël,Rennes,31
-9359,Alice Petit,Strasbourg,61
-3718,Jean Lemoine,Bordelon,4
-8680,Élise Noël,Strasbourg,28
-4295,Jean Moreau,Nantes,75
-8564,Sophie Girard,Lille,59
-4269,Claire Lemoine,Strasbourg,7
-7194,Lucien Fontaine,Paris,13
-7946,Marie Petit,Toulouse,58
-3381,Thomas Petit,Nice,28
-3633,Claire Petit,Marseille,91
-9873,Hugo Petit,Toulouse,89
-2993,Marie Lemoine,Nantes,73
-9011,Marie Perrot,Nice,25
-6887,Hugo Dubois,Strasbourg,93
-5887,Jean Denton,Toulouse,26
-9860,Lucien Perrot,Bordelon,4
-9701,Élise Moreau,Bordelon,67
-3656,Marie Noël,Bordelon,70
-8272,Marie Lagarde,Nice,87
-5968,Lucien Moreau,Bordelon,38
-5052,Thomas Dubois,Nantes,5
-4314,Marie Perrot,Lyon,14
-5003,Sophie Noël,Strasbourg,92
-8616,Claire Lagarde,Marseille,90
-4851,Thomas Lemoine,Marseille,26
-7280,Claire Petit,Toulouse,82
-7878,Thomas Girard,Bordelon,89
-2621,Lucien Girard,Bordelon,76
-6827,Sophie Moreau,Lille,42
-8335,Hugo Perrot,Strasbourg,91
-8628,Claire Girard,Rennes,99
-9913,Alice Lagarde,Nice,15
-5683,Edgar Lagarde,Rennes,84
-6144,Alice Denton,Nantes,33
-1775,Sophie Girard,Rennes,53
-2783,Hugo Noël,Lille,8
-1166,Lucien Lagarde,Nice,56
-6130,Sophie Moreau,Nice,24
-7099,Sophie Dubois,Lyon,39
-5364,Edgar Perrot,Nice,77
-9028,Claire Perrot,Lille,91
-8316,Lucien Noël,Strasbourg,32
-5212,Marie Girard,Nantes,85
-7006,Edgar Perrot,Bordelon,15
-2391,Lucien Lemoine,Nice,49
-9122,Hugo Lagarde,Lyon,96
-6223,Sophie Fontaine,Rennes,40
-2720,Lucien Lagarde,Lyon,27
-8921,Sophie Perrot,Bordelon,83
-5447,Alice Lagarde,Strasbourg,67
-2956,Jean Girard,Nantes,97
-9862,Claire Dubois,Toulouse,81
-4413,Jean Lemoine,Marseille,10
-8830,Edgar Denton,Rennes,4
-1802,Alice Denton,Bordelon,42
-3859,Jean Petit,Strasbourg,76
-9439,Lucien Fontaine,Lille,29
-3189,Hugo Perrot,Toulouse,38
-4723,Sophie Moreau,Bordelon,66
-6121,Lucien Noël,Lille,75
-4327,Élise Fontaine,Nantes,44
-4916,Marie Fontaine,Toulouse,55
-4877,Lucien Fontaine,Lille,51
-7261,Lucien Lagarde,Nantes,97
-9536,Jean Noël,Strasbourg,17
-7533,Lucien Denton,Nice,81
-3505,Claire Fontaine,Nantes,24
-1473,Sophie Denton,Bordelon,33
-5316,Edgar Lagarde,Paris,56
-6890,Thomas Girard,Nice,81
-8060,Marie Fontaine,Lyon,83
-5083,Alice Perrot,Nice,45
-2416,Edgar Noël,Rennes,85
-9303,Alice Noël,Toulouse,9
-4175,Marie Lagarde,Lyon,64
-2758,Jean Perrot,Marseille,82
-1835,Élise Denton,Nantes,5
-1249,Alice Denton,Lille,68
-5243,Alice Fontaine,Lille,80
-5489,Élise Dubois,Lille,45
-6636,Alice Perrot,Toulouse,23
-5884,Alice Perrot,Paris,66
-2194,Edgar Dubois,Toulouse,99
-2361,Alice Petit,Rennes,65
-2280,Edgar Dubois,Bordelon,13
-8130,Élise Dubois,Paris,25
-1251,Marie Lemoine,Nantes,20
-7639,Claire Dubois,Paris,88
-3342,Marie Denton,Lyon,33
-7568,Claire Girard,Lyon,9
-7727,Hugo Perrot,Nantes,74
-5506,Sophie Dubois,Lille,87
-7425,Alice Perrot,Nantes,23
-2826,Edgar Moreau,Strasbourg,65
-1149,Marie Moreau,Bordelon,44
-9407,Jean Dubois,Rennes,90
-2896,Sophie Girard,Lyon,60
-3005,Claire Petit,Nantes,42
-7189,Lucien Denton,Toulouse,50
-4290,Sophie Lemoine,Marseille,91
-6139,Jean Fontaine,Lyon,31
-4543,Edgar Fontaine,Rennes,38
-8025,Hugo Lemoine,Toulouse,58
-3316,Jean Perrot,Toulouse,73
-6088,Marie Lagarde,Nantes,70
-1263,Marie Noël,Paris,0
-2817,Marie Denton,Paris,77
-4749,Élise Noël,Lyon,48
-3354,Claire Girard,Lyon,89
-7003,Sophie Perrot,Toulouse,89
-1313,Alice Noël,Paris,78
-5749,Alice Dubois,Lille,57
-8539,Alice Denton,Lyon,8
-3225,Edgar Lagarde,Nice,90
-5278,Marie Noël,Nantes,47
-4947,Hugo Fontaine,Lille,64
-5259,Alice Moreau,Lyon,50
-4346,Hugo Noël,Lyon,25
-5849,Hugo Noël,Lille,62
-4915,Alice Moreau,Strasbourg,79
-5511,Élise Petit,Nice,16
-7767,Claire Fontaine,Marseille,24
-5058,Sophie Noël,Lyon,16
-4324,Edgar Denton,Lyon,74
-4530,Hugo Fontaine,Nantes,85
-7762,Jean Lemoine,Rennes,8
-9618,Sophie Lagarde,Lyon,21
-9763,Hugo Fontaine,Strasbourg,73
-4902,Lucien Perrot,Rennes,70
-7029,Élise Moreau,Nantes,53
-4617,Sophie Girard,Nantes,82
-9566,Hugo Denton,Rennes,93
-5963,Élise Noël,Bordelon,34
-3631,Marie Noël,Strasbourg,77
-7809,Thomas Noël,Nice,95
-3361,Sophie Dubois,Lyon,92
-8089,Lucien Fontaine,Toulouse,33
-4920,Lucien Fontaine,Strasbourg,43
-3744,Edgar Fontaine,Lille,26
-1259,Lucien Noël,Paris,9
-8745,Claire Fontaine,Bordelon,83
-9595,Élise Girard,Nantes,52
-8448,Élise Denton,Toulouse,12
-1583,Alice Petit,Strasbourg,94
-4028,Alice Perrot,Toulouse,46
-7370,Sophie Lagarde,Paris,48
-5388,Edgar Dubois,Nice,48
-7791,Alice Perrot,Rennes,27
-1693,Élise Denton,Rennes,0
-3318,Lucien Lagarde,Marseille,32
-3466,Thomas Denton,Lyon,70
-9000,Élise Moreau,Lyon,26
-7792,Élise Moreau,Marseille,5
-2524,Alice Dubois,Paris,23
-2402,Edgar Denton,Paris,99
-1004,Thomas Girard,Nice,13
-5132,Alice Fontaine,Lyon,87
-3710,Jean Girard,Rennes,52
-2489,Alice Petit,Nice,5
-9502,Claire Petit,Nice,99
-7372,Thomas Denton,Nantes,84
-6791,Élise Petit,Strasbourg,60
-7842,Claire Moreau,Lyon,50
-8827,Marie Noël,Lille,84
-9295,Alice Petit,Marseille,75
-8256,Sophie Petit,Bordelon,36
-5857,Jean Moreau,Nice,60
-4528,Lucien Perrot,Paris,20
-2978,Lucien Petit,Nice,28
-5046,Élise Petit,Nice,73
-2829,Jean Fontaine,Marseille,91
-2420,Alice Petit,Nantes,77
-2507,Jean Dubois,Bordelon,84
-8619,Alice Lagarde,Bordelon,98
-2097,Hugo Denton,Nantes,2
-5315,Thomas Moreau,Nice,31
-2241,Alice Denton,Toulouse,56
-3497,Jean Girard,Paris,64
-5141,Claire Girard,Toulouse,0
-8878,Edgar Dubois,Paris,64
-9552,Alice Fontaine,Bordelon,28
-9337,Edgar Fontaine,Toulouse,97
-1457,Jean Lagarde,Bordelon,72
-8498,Claire Noël,Bordelon,99
-5793,Thomas Lagarde,Bordelon,47
-9706,Edgar Dubois,Rennes,92
-9557,Thomas Moreau,Rennes,13
-5016,Alice Girard,Lyon,69
-5492,Thomas Petit,Rennes,65
-9080,Jean Noël,Rennes,41
-5123,Alice Lagarde,Rennes,21
-4870,Edgar Petit,Nantes,88
-8066,Jean Lemoine,Nice,18
-2931,Marie Girard,Nantes,71
-5612,Sophie Fontaine,Toulouse,66
-8758,Claire Perrot,Bordelon,53
-3894,Edgar Moreau,Toulouse,71
-6690,Marie Petit,Rennes,89
-9030,Claire Fontaine,Lille,78
-8868,Alice Denton,Lyon,70
-8292,Lucien Lagarde,Paris,96
-4074,Edgar Lagarde,Marseille,34
-8860,Élise Lemoine,Lille,22
-7725,Thomas Fontaine,Marseille,53
-1039,Élise Lemoine,Paris,80
-9656,Claire Petit,Strasbourg,91
-5338,Jean Moreau,Lille,61
-6863,Jean Petit,Lille,88
-6510,Edgar Lemoine,Lille,73
-9156,Thomas Lagarde,Toulouse,75
-6253,Élise Petit,Lyon,67
-1086,Edgar Lagarde,Nantes,71
-1359,Marie Lagarde,Nantes,14
-2774,Claire Lemoine,Nantes,21
-1899,Alice Dubois,Nice,43
-9421,Lucien Dubois,Lyon,53
-8913,Lucien Lemoine,Marseille,20
-3966,Lucien Moreau,Lyon,66
-3103,Claire Denton,Paris,90
-2462,Alice Lagarde,Nice,77
-1311,Jean Moreau,Lille,84
-3675,Jean Perrot,Paris,8
-8870,Sophie Dubois,Bordelon,64
-4009,Hugo Petit,Nice,40
-7336,Thomas Moreau,Toulouse,51
-2769,Thomas Lagarde,Lille,85
-2755,Alice Girard,Toulouse,45
-5985,Marie Girard,Nice,97
-3213,Élise Moreau,Toulouse,5
-9394,Sophie Denton,Paris,9
-5655,Alice Girard,Toulouse,34
-3082,Marie Noël,Marseille,99
-7578,Sophie Fontaine,Nice,98
-4457,Thomas Denton,Lille,40
-5759,Lucien Perrot,Nice,60
-7268,Edgar Dubois,Nantes,98
-9593,Hugo Denton,Bordelon,88
-2061,Élise Denton,Bordelon,25
-1584,Lucien Lemoine,Strasbourg,9
-1824,Lucien Fontaine,Toulouse,44
-6424,Jean Noël,Bordelon,12
-2465,Edgar Petit,Paris,78
-1341,Lucien Fontaine,Marseille,19
-7154,Jean Denton,Lille,94
-3850,Thomas Lagarde,Nantes,60
-7027,Marie Denton,Lille,54
-7049,Jean Denton,Lille,88
-7286,Jean Denton,Marseille,39
-8455,Edgar Moreau,Lyon,41
-5573,Claire Denton,Paris,47
-3413,Jean Noël,Lyon,80
-3224,Alice Perrot,Toulouse,59
-9779,Thomas Perrot,Nice,89
-7389,Élise Perrot,Bordelon,54
-2577,Jean Lagarde,Lyon,36
-6364,Lucien Noël,Strasbourg,60
-7387,Marie Lagarde,Lille,27
-2453,Alice Girard,Strasbourg,10
-3680,Lucien Denton,Bordelon,68
-9846,Edgar Noël,Paris,39
-1858,Marie Fontaine,Nantes,90
-3422,Edgar Perrot,Paris,85
-8151,Jean Moreau,Bordelon,56
-7771,Élise Moreau,Toulouse,9
-8927,Claire Denton,Strasbourg,68
-2436,Claire Girard,Lyon,0
-5057,Edgar Lemoine,Strasbourg,64
-3172,Élise Denton,Marseille,79
-3919,Jean Girard,Strasbourg,68
-8302,Jean Denton,Lille,73
-4714,Thomas Petit,Rennes,35
-9744,Élise Fontaine,Marseille,29
-2515,Marie Petit,Marseille,25
-2072,Edgar Denton,Marseille,15
-4544,Marie Fontaine,Strasbourg,43
-9979,Hugo Denton,Nice,42
-5981,Marie Fontaine,Marseille,77
-4354,Élise Moreau,Marseille,93
-7932,Thomas Girard,Bordelon,70
-5235,Claire Lemoine,Lyon,19
-7691,Jean Moreau,Bordelon,30
-7206,Sophie Girard,Lyon,77
-4878,Alice Lemoine,Lille,19
-5786,Lucien Dubois,Nice,41
-7800,Marie Girard,Bordelon,28
-6861,Thomas Girard,Toulouse,91
-1054,Thomas Perrot,Marseille,8
-7502,Alice Girard,Nice,100
-1744,Thomas Petit,Lyon,15
-3747,Thomas Fontaine,Nice,28
-4331,Alice Lagarde,Nice,29
-2495,Sophie Dubois,Paris,64
-3359,Alice Lemoine,Lille,54
-4472,Marie Denton,Lille,13
-5540,Claire Fontaine,Strasbourg,20
-1561,Jean Noël,Paris,59
-8306,Hugo Denton,Strasbourg,58
-6033,Alice Moreau,Bordelon,0
-4475,Élise Noël,Bordelon,100
-3204,Élise Perrot,Paris,70
-5562,Jean Lagarde,Strasbourg,2
-9584,Élise Fontaine,Nice,97
-8807,Élise Noël,Marseille,73
-6749,Sophie Girard,Bordelon,5
-1379,Élise Denton,Toulouse,51
-9866,Jean Lemoine,Marseille,45
-8152,Claire Moreau,Marseille,9
-1808,Jean Fontaine,Bordelon,97
-6731,Hugo Dubois,Rennes,7
-5266,Thomas Perrot,Lyon,4
-2501,Jean Girard,Lille,68
-5317,Sophie Fontaine,Bordelon,19
-1851,Marie Perrot,Lille,14
-6086,Sophie Moreau,Lyon,39
-2807,Claire Petit,Lille,63
-3820,Edgar Lemoine,Strasbourg,6
-1883,Jean Girard,Rennes,84
-1909,Edgar Moreau,Lyon,89
-3332,Lucien Perrot,Nice,15
-3617,Hugo Girard,Nice,93
-7562,Claire Fontaine,Marseille,68
-2057,Thomas Perrot,Strasbourg,75
-1176,Claire Lagarde,Nice,99
-4063,Alice Petit,Nantes,81
-5890,Élise Girard,Marseille,92
-5846,Claire Lagarde,Lyon,8
-4854,Sophie Petit,Lille,78
-3190,Jean Girard,Toulouse,41
-5467,Lucien Noël,Strasbourg,77
-1200,Edgar Girard,Nice,88
-9160,Claire Perrot,Marseille,28
-9306,Marie Dubois,Bordelon,88
-2955,Thomas Noël,Lille,45
-7298,Hugo Denton,Lyon,76
-8984,Sophie Girard,Lille,29
-2679,Élise Fontaine,Strasbourg,79
-1222,Sophie Fontaine,Nice,88
-2873,Sophie Moreau,Nantes,93
-6315,Marie Perrot,Strasbourg,97
-2635,Élise Moreau,Lille,38
-8248,Élise Fontaine,Rennes,7
-5560,Sophie Girard,Nantes,94
-7039,Lucien Noël,Bordelon,17
-7743,Élise Fontaine,Strasbourg,75
-4140,Claire Dubois,Paris,79
-9934,Lucien Noël,Nice,82
-9475,Edgar Noël,Paris,5
-1952,Thomas Petit,Lyon,97
-7615,Edgar Denton,Nantes,97
-2309,Edgar Petit,Paris,69
-7282,Élise Girard,Rennes,46
-9348,Alice Lemoine,Toulouse,23
-1368,Lucien Denton,Lyon,31
-5349,Claire Perrot,Toulouse,25
-6136,Thomas Lemoine,Paris,95
-9284,Sophie Moreau,Lyon,23
-4315,Thomas Denton,Lyon,3
-4510,Alice Perrot,Nice,64
-1224,Edgar Moreau,Lille,7
-9436,Sophie Perrot,Rennes,15
-9041,Élise Moreau,Lyon,41
-6635,Lucien Perrot,Bordelon,32
-1751,Sophie Dubois,Nice,93
-5546,Sophie Moreau,Rennes,19
-1487,Lucien Noël,Rennes,5
-9993,Hugo Moreau,Strasbourg,42
-3250,Lucien Fontaine,Marseille,51
-3871,Alice Denton,Lille,1
-7118,Thomas Petit,Bordelon,46
-7209,Edgar Petit,Nice,16
-6115,Hugo Noël,Paris,97
-5555,Jean Lagarde,Bordelon,33
-2874,Hugo Moreau,Nice,55
-2232,Alice Noël,Nice,61
-4732,Edgar Noël,Strasbourg,75
-3180,Hugo Moreau,Rennes,87
-2215,Sophie Denton,Bordelon,10
-5331,Thomas Perrot,Lille,62
-9824,Thomas Dubois,Marseille,9
-5765,Lucien Noël,Strasbourg,70
-2928,Edgar Girard,Nice,46
-5930,Marie Dubois,Rennes,78
-9135,Marie Denton,Rennes,4
-2744,Marie Moreau,Toulouse,71
-8661,Marie Moreau,Marseille,27
-6011,Marie Lemoine,Nice,89
-9077,Alice Petit,Nice,98
-3389,Sophie Denton,Toulouse,83
-5326,Hugo Fontaine,Bordelon,58
-6950,Alice Lemoine,Paris,100
-5034,Alice Noël,Strasbourg,64
-7405,Hugo Lemoine,Nice,96
-2895,Thomas Dubois,Lille,16
-9499,Claire Denton,Nantes,89
-8268,Élise Fontaine,Paris,67
-9675,Claire Lagarde,Nice,49
-4137,Edgar Petit,Lille,78
-6433,Élise Moreau,Toulouse,37
-1560,Élise Fontaine,Nice,23
-9581,Sophie Noël,Lyon,98
-2156,Sophie Moreau,Strasbourg,81
-1671,Marie Perrot,Toulouse,33
-7896,Élise Girard,Nantes,12
-2734,Jean Perrot,Paris,32
-8230,Marie Lagarde,Lille,93
-7808,Thomas Dubois,Bordelon,89
-4737,Sophie Moreau,Rennes,29
-9964,Lucien Fontaine,Strasbourg,20
-9727,Alice Moreau,Rennes,39
-8033,Jean Girard,Lyon,28
-8924,Jean Dubois,Lyon,70
-7024,Hugo Girard,Paris,65
-2050,Lucien Dubois,Lyon,75
-5290,Marie Moreau,Strasbourg,42
-2657,Jean Fontaine,Rennes,0
-6060,Jean Lemoine,Bordelon,96
-9525,Claire Girard,Bordelon,82
-4111,Marie Lagarde,Paris,56
-7290,Marie Perrot,Rennes,77
-3368,Thomas Denton,Nice,2
-6529,Lucien Lemoine,Marseille,77
-4940,Lucien Girard,Lille,58
-7341,Thomas Lemoine,Lille,96
-8043,Jean Fontaine,Bordelon,83
-4681,Marie Perrot,Lyon,11
-4340,Jean Lemoine,Bordelon,64
-4555,Élise Dubois,Bordelon,39
-1527,Alice Fontaine,Toulouse,58
-7141,Élise Lemoine,Toulouse,74
-6676,Thomas Petit,Toulouse,44
-2969,Marie Moreau,Strasbourg,92
-8999,Thomas Perrot,Paris,34
-4779,Thomas Petit,Lille,37
-4242,Sophie Moreau,Nice,7
-7431,Marie Dubois,Lille,13
-4833,Alice Girard,Lyon,83
-6185,Edgar Lagarde,Rennes,52
-2530,Alice Fontaine,Marseille,40
-1141,Hugo Petit,Paris,25
-1885,Alice Fontaine,Lyon,46
-5000,Edgar Fontaine,Nice,46
-5488,Marie Petit,Bordelon,15
-8686,Claire Perrot,Strasbourg,12
-5879,Thomas Dubois,Nice,50
-3538,Thomas Perrot,Nice,3
-4118,Thomas Denton,Paris,68
-3826,Lucien Denton,Toulouse,88
-1667,Sophie Petit,Strasbourg,67
-5043,Thomas Petit,Toulouse,89
-5996,Lucien Noël,Rennes,49
-3811,Hugo Petit,Paris,73
-7133,Thomas Perrot,Paris,63
-7296,Marie Girard,Toulouse,95
-3988,Thomas Fontaine,Nantes,99
-1489,Edgar Dubois,Bordelon,49
-1468,Hugo Denton,Rennes,87
-7835,Hugo Girard,Nantes,55
-9519,Edgar Petit,Lyon,80
-2026,Claire Petit,Lyon,3
-5160,Alice Perrot,Toulouse,23
-5713,Sophie Moreau,Lyon,74
-1692,Jean Denton,Rennes,85
-2801,Sophie Girard,Toulouse,35
-4100,Edgar Denton,Paris,82
-5240,Lucien Lagarde,Nice,14
-4439,Sophie Girard,Paris,43
-9056,Marie Dubois,Lille,98
-3643,Edgar Moreau,Nice,92
-3173,Lucien Lemoine,Strasbourg,81
-9352,Élise Noël,Bordelon,16
-5242,Thomas Noël,Paris,73
-6397,Edgar Girard,Lyon,48
-3757,Élise Lagarde,Marseille,4
-4727,Lucien Dubois,Paris,63
-3415,Lucien Perrot,Paris,3
-5228,Hugo Dubois,Lille,9
-9831,Sophie Moreau,Rennes,79
-3931,Élise Fontaine,Marseille,66
-8402,Marie Moreau,Lyon,47
-5881,Lucien Noël,Toulouse,84
-3277,Thomas Petit,Lille,64
-9948,Marie Girard,Paris,68
-2570,Edgar Lagarde,Marseille,8
-2631,Hugo Perrot,Marseille,58
-5382,Thomas Lemoine,Rennes,76
-4158,Hugo Denton,Bordelon,25
-5599,Lucien Lagarde,Marseille,46
-2985,Marie Fontaine,Nice,91
-8348,Lucien Noël,Nice,63
-5409,Hugo Girard,Nice,93
-7541,Claire Lagarde,Nantes,37
-1214,Hugo Fontaine,Nantes,48
-6909,Marie Petit,Marseille,80
-1570,Jean Fontaine,Nice,18
-6573,Thomas Perrot,Rennes,28
-3309,Lucien Petit,Toulouse,53
-3153,Claire Noël,Bordelon,85
-5681,Jean Lagarde,Rennes,86
-4618,Edgar Petit,Strasbourg,22
-4266,Thomas Moreau,Bordelon,22
-7273,Edgar Perrot,Toulouse,37
-7655,Thomas Petit,Lyon,57
-3544,Hugo Lagarde,Rennes,78
-2399,Claire Petit,Marseille,57
-8856,Alice Petit,Nice,48
-1564,Hugo Moreau,Marseille,94
-2820,Lucien Perrot,Lille,27
-2500,Thomas Girard,Toulouse,72
-5392,Marie Noël,Bordelon,7
-5450,Claire Lagarde,Paris,85
-2126,Lucien Girard,Nantes,35
-6995,Jean Perrot,Lille,47
-4410,Thomas Moreau,Bordelon,14
-9266,Marie Lemoine,Nice,57
-3786,Sophie Fontaine,Rennes,57
-8771,Marie Denton,Toulouse,90
-3369,Sophie Denton,Lyon,98
-5842,Alice Dubois,Lille,54
-3618,Sophie Girard,Marseille,10
-2652,Alice Fontaine,Toulouse,61
-2356,Thomas Noël,Lille,39
-9319,Claire Lagarde,Strasbourg,3
-6023,Lucien Perrot,Bordelon,77
-8120,Alice Dubois,Toulouse,19
-9194,Lucien Lagarde,Marseille,12
-6613,Hugo Fontaine,Strasbourg,95
-4628,Sophie Fontaine,Rennes,42
-5261,Lucien Lagarde,Toulouse,38
-4938,Alice Dubois,Rennes,59
-5727,Lucien Girard,Lyon,4
-8529,Sophie Perrot,Nantes,99
-3723,Alice Perrot,Nantes,82
-7621,Jean Noël,Toulouse,3
-7873,Hugo Denton,Lyon,84
-9999,Jean Dubois,Nice,71
-5901,Élise Denton,Strasbourg,6
-8518,Edgar Lemoine,Marseille,21
-9887,Jean Fontaine,Marseille,64
-2966,Edgar Petit,Rennes,92
-2880,Lucien Dubois,Lyon,68
-3006,Marie Lagarde,Lyon,24
-2681,Thomas Denton,Nice,39
-6664,Sophie Fontaine,Nice,25
-9501,Edgar Girard,Lyon,78
-1088,Lucien Petit,Rennes,100
-4571,Élise Fontaine,Nice,90
-5138,Jean Petit,Toulouse,8
-2147,Edgar Moreau,Paris,92
-9722,Alice Noël,Lyon,14
-2040,Edgar Denton,Paris,12
-1706,Alice Denton,Paris,66
-4333,Alice Petit,Strasbourg,78
-5864,Lucien Girard,Nantes,59
-6654,Edgar Moreau,Marseille,5
-4394,Élise Denton,Rennes,40
-7347,Edgar Noël,Nice,96
-6382,Marie Lagarde,Lille,34
-4820,Edgar Dubois,Paris,60
-3078,Sophie Moreau,Lyon,33
-6840,Jean Petit,Strasbourg,3
-3028,Hugo Fontaine,Nice,14
-2390,Sophie Moreau,Rennes,92
-7424,Alice Fontaine,Marseille,52
-5068,Alice Denton,Nice,28
-7283,Alice Lagarde,Lyon,10
-4600,Claire Dubois,Lille,21
-5992,Élise Lagarde,Marseille,47
-4733,Sophie Petit,Toulouse,26
-8138,Élise Denton,Marseille,7
-9320,Lucien Lemoine,Rennes,51
-3114,Lucien Girard,Rennes,44
-2303,Jean Fontaine,Nantes,67
-2001,Jean Fontaine,Marseille,25
-9289,Thomas Denton,Toulouse,46
-6311,Hugo Girard,Paris,42
-9158,Alice Lagarde,Strasbourg,99
-4259,Hugo Fontaine,Marseille,90
-3980,Edgar Noël,Marseille,98
-3469,Élise Noël,Lille,52
-1557,Edgar Perrot,Lille,81
-1504,Hugo Petit,Nice,49
-5008,Edgar Lagarde,Rennes,57
-3124,Thomas Perrot,Rennes,91
-3307,Thomas Fontaine,Bordelon,6
-8882,Jean Fontaine,Nantes,52
-2951,Jean Girard,Rennes,37
-8695,Edgar Lagarde,Nantes,45
-2589,Alice Denton,Toulouse,1
-7510,Élise Denton,Marseille,88
-2012,Marie Lagarde,Nantes,42
-4713,Lucien Perrot,Rennes,10
-4786,Claire Moreau,Marseille,68
-3193,Élise Lemoine,Lyon,54
-4989,Sophie Denton,Nice,11
-3210,Lucien Denton,Marseille,44
-1896,Sophie Fontaine,Toulouse,88
-9162,Sophie Girard,Lyon,13
-5541,Jean Lemoine,Nantes,41
+5 3 1
+2 5 0
+1 4 0
+4 2 1
+3 3 1
+6 1 1
+2 4 0
+1 5 0
+3 2 1
+4 3 1
+2 6 0
+5 2 1
+1 3 0
+2 4 0
+4 1 1
+3 5 0
+6 2 1
+1 4 0
+2 3 0
+5 1 1
+3 4 0
+4 2 1
+2 5 0
+1 6 0
+3 1 1
+5 3 1
+2 4 0
+4 2 1
+1 5 0
+6 1 1
+3 3 1
+2 6 0
+4 1 1
+5 2 1
+1 4 0
+3 5 0
+6 2 1
+2 3 0
+4 4 1
+1 5 0
+5 1 1
+3 6 0
+2 2 1
+4 3 1
+1 4 0
+6 1 1
+3 5 0
+2 6 0
+5 2 1
+1 3 0
+4 4 1
+3 1 1
+2 5 0
+6 2 1
+1 4 0
+5 3 1
+3 6 0
+4 1 1
+2 2 1
+1 5 0
+6 3 1
+3 4 0
+2 1 1
+5 5 1
+1 2 0
+4 6 0
+3 1 1
+6 4 1
+2 3 0
+5 2 1
+1 6 0
+4 1 1
+3 5 0
+2 4 0
+6 2 1
+1 3 0
+5 4 1
+3 1 1
+4 6 0
+2 2 1
+1 5 0
+6 3 1
+3 4 0
+5 1 1
+2 6 0
+4 2 1
+1 3 0
+3 5 0
+6 1 1
+2 4 0
+5 3 1
+1 6 0
+4 1 1
+3 2 1
+2 5 0
+6 4 1
+1 3 0
+5 2 1
+3 6 0
+4 1 1
+2 4 0
+1 5 0
+6 2 1
+3 3 1
+5 4 1
+2 1 0
+4 6 0
+1 2 1
+3 5 0
+6 3 1
+2 4 0
+5 1 1
+1 6 0
+4 2 1
+3 3 1
+2 5 0
+6 1 1
+1 4 0
+5 3 1
+3 6 0
+4 2 1
+2 1 0
+1 5 0
+6 4 1
+3 2 1
+5 3 1
+2 6 0
+4 1 1
+1 4 0
+3 5 0
+6 2 1
+2 3 0
+5 4 1
+1 1 1
+4 6 0
+3 2 1
+2 5 0
+6 3 1
+1 4 0
+5 1 1
+3 6 0
+4 2 1
+2 3 1
+1 5 0
+6 4 1
+3 1 1
+5 2 1
+2 6 0
+4 3 1
+1 4 0
+3 5 0
+6 1 1
+2 2 1
+5 4 1
+1 6 0
+4 1 1
+3 3 1
+2 5 0
+6 2 1
+1 4 0
+5 3 1
+3 6 0
+4 1 1
+2 2 1
+1 5 0
+6 3 1
+3 4 0
+5 1 1
+2 6 0
+4 2 1
+1 3 0
+3 5 0
+6 4 1
+2 1 1
+5 2 1
+1 6 0
+4 3 1
+3 1 1
+2 5 0
+6 2 1
+1 4 0
+5 3 1
+3 6 0
+4 1 1
+2 2 1
+1 5 0
+6 4 1
+3 3 1
+5 1 1
+2 6 0
+4 2 1
+1 4 0
+3 5 0
+6 1 1
+2 3 1
+5 4 1
+1 2 0
+4 6 0
+3 1 1
+2 5 0
+6 3 1
+1 4 0
+5 2 1
+3 6 0
+4 1 1
+2 3 1
+1 5 0
+6 2 1
+3 4 0
+5 1 1
+2 6 0
+4 3 1
+1 1 1
+3 5 0
+6 4 1
+2 2 1
+5 3 1
+1 6 0
+4 1 1
+3 2 1
+2 5 0
+6 3 1
+1 4 0
+5 1 1
+3 6 0
+4 2 1
+2 3 1
+1 5 0
+6 4 1
+3 1 1
+5 2 1
+2 6 0
+4 3 1
+1 4 0
+3 5 0
+6 1 1
+2 2 1
+5 4 1
+1 6 0
+4 1 1
+3 3 1
+2 5 0
+6 2 1
+1 4 0
+5 3 1
+3 6 0
+4 1 1
+2 2 1
+1 5 0
+6 3 1
+3 4 0
+5 1 1
+2 6 0
+4 2 1
+1 3 0
+3 5 0
+6 4 1
+2 1 1
+5 2 1
+1 6 0
+4 3 1
+3 1 1
+2 5 0
+6 2 1
+1 4 0
+5 3 1
+3 6 0
+4 1 1
+2 2 1
+1 5 0
+6 4 1
+3 3 1
+5 1 1
+2 6 0
+4 2 1
+1 4 0
+3 5 0
+6 1 1
+2 3 1
+5 4 1
+1 2 0
+4 6 0
+3 1 1
+2 5 0
+6 3 1
+1 4 0
+5 2 1
+3 6 0
+4 1 1
+2 3 1
+1 5 0
+6 2 1
+3 4 0
+5 1 1
+2 6 0
+4 3 1
+1 1 1
+3 5 0
+6 4 1
+2 2 1
+5 3 1
+1 6 0
+4 1 1
+3 2 1
+2 5 0
+6 3 1
+1 4 0
+5 1 1
+3 6 0
+4 2 1
+2 3 1
+1 5 0
+6 4 1
+3 1 1
+5 2 1
+2 6 0
+4 3 1
+1 4 0
+3 5 0
+6 1 1
+2 2 1
+5 4 1
+1 6 0
+4 1 1
+3 3 1
+2 5 0
+6 2 1
+1 4 0
+5 3 1
+3 6 0
+4 1 1
+2 2 1
+1 5 0
+6 3 1
+3 4 0
+5 1 1
+2 6 0
+4 2 1
+1 3 0
+3 5 0
+6 4 1
+2 1 1
+5 2 1
+1 6 0
+4 3 1
+3 1 1
+2 5 0
+6 2 1
+1 4 0
+5 3 1
+3 6 0
+4 1 1
+2 2 1
+1 5 0
+6 4 1
+3 3 1
+5 1 1
+2 6 0
+4 2 1
+1 4 0
+3 5 0
+6 1 1
+2 3 1
+5 4 1
+1 2 0
+4 6 0
+3 1 1
+2 5 0
+6 3 1
+1 4 0
+5 2 1
+3 6 0
+4 1 1
+2 3 1
+1 5 0
+6 2 1
+3 4 0
+5 1 1
+2 6 0
+4 3 1
+1 1 1
+3 5 0
+6 4 1
+2 2 1
+5 3 1
+1 6 0
+4 1 1
+3 2 1
+2 5 0
+6 3 1
+1 4 0
+5 1 1
+3 6 0
+4 2 1
+2 3 1
+1 5 0
+6 4 1
+3 1 1
+5 2 1
+2 6 0
+4 3 1
+1 4 0
+3 5 0
+6 1 1
+2 2 1
+5 4 1
+1 6 0
+4 1 1
+3 3 1
+2 5 0
+6 2 1
+1 4 0
+5 3 1
+3 6 0
+4 1 1
+2 2 1
+1 5 0
+6 3 1
+3 4 0
+5 1 1
+2 6 0
+4 2 1
+1 3 0
+3 5 0
+6 4 1
+2 1 1
+5 2 1
+1 6 0
+4 3 1
+3 1 1
+2 5 0
+6 2 1
+1 4 0
+5 3 1
+3 6 0
+4 1 1
+2 2 1
+1 5 0
+6 4 1
+3 3 1
+5 1 1
+2 6 0
+4 2 1
+1 4 0
+3 5 0
+6 1 1
+2 3 1
+5 4 1
+1 2 0
+4 6 0
+3 1 1
